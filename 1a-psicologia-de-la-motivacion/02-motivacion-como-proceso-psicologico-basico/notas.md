@@ -119,6 +119,45 @@ Con todas las técnicas, necesitamos:
 
 # 2. Antecedentes en el estudio de la motivación
 ## 2.1. Antecedentes filosóficos
+### Filósofos griegos
+Se enfocaron en el hedonismo (búsqueda del placer, evitar el dolor) como principal fuente de motivación.
+
+**Sócrates** destacaba por el uso de la dialéctica, hacer preguntas para llegar al conocimiento.
+
+Platón (discípulo de Sócrates) y Aristóteles (discípulo de Platón), dos principales contribuyentes sobre el mundo de las ideas y con trascendencia fundamental en el desarrollo de la psicología y estudio de la motivación
+
+**Platón**: Defendía que el ser humano está formado por cuerpo (los sentidos) y por alma (ideas, razón, conocimiento). Daba mucha importancia al alma, dejando los sentidos un poco de lado. Defendía que el alma existe de antes que el cuerpo y que todo lo que aprendemos es simplemente el alma recordando cosas
+
+**Aristóteles**: puso especial interés en el mundo de los sentidos. Defiende que el humano empieza sin idea alguna (_tabula rasa_, tabla en blanco), y que todas las conductas son aprendidas. Esto generó controversia posteriormente en psicología por debate experiencia vs herencia: ¿la conducta se aprende o viene dada por la genética? Ahora sabemos que en realidad es una combinación de ambas.
+También defendió mucho el **animismo**, que el alma es libre y vive en todos los seres vivos, y que es la que guía las decisiones que tomamos. También en los animales.
+
+### Descartes
+Se cuestionan las ideas animistas, surge el **determinismo** (filosófico) y de este el **mecanicismo** (psicológico): todo efecto tiene una causa; los animales no deciden nada, son autómatas que actúan movidos por fuerzas internas, como un motor.
+
+**Descartes**: defendió naturaleza dualista, alma+cuerpo. La conducta es por una parte fruto del alma (libre y racional) y por otra resultado de los procesos del cuerpo (automáticos e irracionales). (_Nota: esto en realidad se parece mucho a lo que defiende Kahneman, parece que Descartes iba por muy buen camino ya hace tiempo_). 
+Defiende que los animales no tienen alma, son solo autómatas. 
+
+### Filósofos ingleses
+Destaca John Locke.
+
+Dos aportaciones muy importantes:
+- **Estudio de la subjetividad de los sentidos**: _toda experiencia sensorial que ocurre por la acción de un estímulo es un fenómeno subjetivo_ (parecido a E-O-R). Las cosas que sentimos no son objetivas, sino que dependen de la mente del individuo. Ejemplo: tres recipiente, uno con agua caliente, uno con fría y uno con templada. Mete una mano en el caliente y otra en el frío, y al cabo de un rato mete las dos en el de templada: notarás una mano fría y una caliente, a pesar de que el agua es la misma. 
+- **Desarrollo del pensamiento asociacionista**: las ideas pueden ser simples o complejas. Si descomponemos ideas complejas, terminamos obteniendo muchas ideas simples. Muy importante para que podamos establecer relaciones entre estímulos, estímulos y respuestas, o respuestas y recompensas. Muy útil para la motivación, porque hay motivos muy complejos pero los podemos entender mejor si los descomponemos en un conjunto de motivos simples.
+
+### Kant
+Defiende que razón+percepción determinan el conocimiento del mundo. El hombre no recibe sensaciones pasivas, sino que nuestra conciencia construye estas sensaciones a partir de nuestro conocimiento. El conocimiento **empieza** en la experiencia pero **no todo procede de ella**, porque luego nuestra mente lo interpreta.
+
+Kant define tres categorías psicológicas principales: **conocimiento** (cognición), **sentimiento** (emoción) y **conación** (motivación). Con conación pretendía definir la condición de las personas de realizar sus acciones siguiendo su razón, de convencerse a sí mismas de hacer lo que quieren.
+
+### Positivismo
+Fundado por Augusto Comtre
+
+Cosas a destacar:
+- Estudia al hombre por medio de observación y experiencia empírica, utilizando en el método inductivo (ir de lo particular a lo general)
+- El único procedimiento válido del conocimiento es el que viene del método científico
+- Dualismo para separar humanos y animales: animales son irracionales, actúan por instinto; humanos son racionales, actúan por experiencia+instinto.
+
+
 ## 2.2. Antecedentes fisiológicos
 ## 2.3. Antecedentes psicológicos
 
@@ -129,6 +168,5 @@ Con todas las técnicas, necesitamos:
 ## 4.2. Nivel individual
 ## 4.3. Nivel social
 ## 4.4. Nivel filosófico
-
 
 # 5. Paradigmas de investigación en el estudio de la motivación
