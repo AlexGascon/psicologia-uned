@@ -1,5 +1,28 @@
-# Motivación como proceso psicológico básico
-## El concepto de motivación
+# TEMA 2 - Motivación como proceso psicológico básico
+
+Table of Contents
+=================
+
+   * [1. El concepto de motivación](#1-el-concepto-de-motivación)
+      * [1.1. ¿Qué entendemos por motivación?](#11-qué-entendemos-por-motivación)
+            * [Etimología (off-topic probablemente pero está guay)](#etimología-off-topic-probablemente-pero-está-guay)
+      * [1.2. ¿Cómo podemos entender la motivación?](#12-cómo-podemos-entender-la-motivación)
+      * [1.3. ¿Cómo podemos estudiar la motivación?](#13-cómo-podemos-estudiar-la-motivación)
+   * [2. Antecedentes en el estudio de la motivación](#2-antecedentes-en-el-estudio-de-la-motivación)
+      * [2.1. Antecedentes filosóficos](#21-antecedentes-filosóficos)
+      * [2.2. Antecedentes fisiológicos](#22-antecedentes-fisiológicos)
+      * [2.3. Antecedentes psicológicos](#23-antecedentes-psicológicos)
+   * [3. Dimensiones en el estudio de la motivación](#3-dimensiones-en-el-estudio-de-la-motivación)
+   * [4. Niveles de análisis en el estudio de la motivación](#4-niveles-de-análisis-en-el-estudio-de-la-motivación)
+      * [4.1. Nivel fisiológico](#41-nivel-fisiológico)
+      * [4.2. Nivel individual](#42-nivel-individual)
+      * [4.3. Nivel social](#43-nivel-social)
+      * [4.4. Nivel filosófico](#44-nivel-filosófico)
+   * [5. Paradigmas de investigación en el estudio de la motivación](#5-paradigmas-de-investigación-en-el-estudio-de-la-motivación)
+
+
+# 1. El concepto de motivación
+## 1.1. ¿Qué entendemos por motivación?
 Muchas veces se habla de motivación como algo binario: estar motivado/desmotivado. En realidad no hay "desmotivación", es simplemente estar motivado por una cosa distinta (e.g. estar estudiando desmotivado, pero que nos llame un amigo y salir de copas enseguida). Por lo anterior, decimos que la motivación es un **flujo permanente** de conducta, siempre estamos motivados por algo
 
 **La psicología de la motivación intenta dar respuesta al por qué de nuestro comportamiento. _Motivación como proceso explicativo de la conducta_** (ojo a esta última frase, esa es la clave de todo y el mejor resumen posible)
@@ -69,3 +92,43 @@ Ferguson, 2000: sobre estado y rasgo motivacional
 - **Rasgo motivacional**: predisposición. Lo que cuenta son las características o la personalidad de la persona.
 
 Ejemplo: motivarse en un concierto cuando suena tu canción favorita (estado); ser una persona alegre y por lo tanto estar más motivado por lo general (rasgo)
+
+## 1.2. ¿Cómo podemos entender la motivación?
+Locke, Latham (2004): motivación = factores internos (nos impulsan) + factores externos (incentivos).
+
+Definición general: **PROCESO ADAPTATIVO QUE ENERGIZA Y DIRIGE EL COMPORTAMIENTO HACIA UNA META DE UNA ACTIVIDAD, A LA QUE MANTIENE**
+
+Analizando por partes:
+- **Proceso adaptativo**: Proceso porque no lo podemos observar directamente, sino que lo inferimos. Adaptativo porque cambia según el estado interno del organismo, al que impulsa y dirige hacia una acción.
+- Con él **describimos las fuerzas** que actúan sobre el organismo para que inicie, active y dirija la conducta. 
+- Implica **existencia de metas que dan ímpetu o dirección**
+- **Requiere actividad física o mental**, porque implica esfuerzo y planificación/organización
+- **Mantiene la conducta motivada**
+
+## 1.3. ¿Cómo podemos estudiar la motivación?
+El problema principal es cómo estudiamos algo interno y no observable (e.g. constructo hipotético). Podemos ayudarnos de estímulo y respuesta, que recordemos sí son sujetos observables.
+
+- **Usando estímulo (situación estimular)**: creamos un estímulo y analizamos la respuesta. _Ejemplo: dos grupos de gente, dejamos a unos sin comer y a otros les llevamos a un buffet; luego les ponemos una prueba cuyo premio sea comida y comparamos qué grupo lo hace mejor_
+- **Midiendo el tipo/intensidad de repsuesta**: cogemos a un grupo de sujetos y averiguamos cómo de motivados están. Después les hacemos realizar una acción y vemos cómo varía su respuesta. _Ejemplo: preguntamos a un grupo de estudiante cuánta hambre tienen; luego los ponemos a comer y comparamos cómo de rápido comen los que decían que tenían mucha hambre vs los que decían que poca_ (no hace falta comparar exactamente la cantidad de motivación que tienen, vale con dividirlos en grupos e.g. mucha vs poca hambre)
+- **Medición estímulo-respuesta**: Combina las dos anteriores, para obtener mejor fiabilidad. _Ejemplo: estímulo de llevar a un grupo a comer y a otro no, y luego medir cómo de rápido comen_. Ventaja añadida: nos permite identificar variables externas (e.g. alguien que aunque tenga hambre coma lento por lo general).
+
+Con todas las técnicas, necesitamos:
+- **Fiabilidad**: que podemos repetir el experimento y obtenemos el mismo resultado
+- **Validez**: que estamos midiendo lo que queremos medir
+
+
+# 2. Antecedentes en el estudio de la motivación
+## 2.1. Antecedentes filosóficos
+## 2.2. Antecedentes fisiológicos
+## 2.3. Antecedentes psicológicos
+
+# 3. Dimensiones en el estudio de la motivación
+
+# 4. Niveles de análisis en el estudio de la motivación
+## 4.1. Nivel fisiológico
+## 4.2. Nivel individual
+## 4.3. Nivel social
+## 4.4. Nivel filosófico
+
+
+# 5. Paradigmas de investigación en el estudio de la motivación
