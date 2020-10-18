@@ -253,8 +253,43 @@ No existe una teoría general que explique la motivación de manera perfecta, au
 
 # 4. Niveles de análisis en el estudio de la motivación
 ## 4.1. Nivel fisiológico
+Las investigaciones se han hecho normalmente con animales, pero los avances en neuroimagen la tendencia está cambiando a investigación con humanos
+
+Ejemplos de investigaciones:
+- Cómo y por qué las estructuras cerebrales desencadenan la motivación
+- Cómo se procesa la información que afecta a la motivación en grupos de células específicas del cerebro
+- Qué neurotransmisores intervienen en los cambios que se producen en los estados motivacionales.
+- Qué papel juega el sistema nervioso en el proceso motivacional
+
+Ejemplos de técnicas:
+- Estimulación eléctrica del cerebro (experimento clásico de Olds y Milner, estimularon el cerebro de ratas y demostraron que estaban más motivadas y se esforzaban más). 
+- Manipular quirúrgicamente el cerebro (e.g. extirpar una parte) y comprobar cómo se altera la motivación del animal
+- Inyectar químicos en una región determinada y observar cómo cambia la conducta motivada
+- EEG (electroencefalograma): registrar la actividad eléctrica natural del cerebro
+- (Más actual) Neuroimagen funcional, para visualizar en directo qué zonas del cerebro intervienen en actividades determinadas relacionadas con la motivación
+
+
 ## 4.2. Nivel individual
+Se investigan los **cambios en la motivación de un individuo cuando se cambian las condiciones (internas o externas) a las que se somete**.
+
+Ejemplos:
+- (con animales) Privarles de comida y observar cómo cambia su conducta
+- (con niños) Albert Bandura, 1961: niños expuestos a conductas agresivas se volvían más agresivos, niños expuestos a conductas tranquilas eran más tranquilos. Gran ejemplo de que algunas conductas se aprenden muy fácilmente con la observación
+
+
 ## 4.3. Nivel social
+Estudia cómo varía la conducta cuando estamos solos vs cuando estamos acompañados
+
+Ejemplos de investigaciones:
+- Asch (1952 y 1965), sobre conformidad social: los pacientes adoptaban una decisión grupal a pesar de que fuese incorrecta (es el famoso experimento sobre "qué línea es más larga"). Cuanto mayor era el grupo, mayor era el % de pacientes que imitaban la decisión (cuando eran solo el paciente y otra persona, el resultado era prácticamente el mismo que cuando el paciente estaba solo)
+
+Se diferencia del nivel individual en que este busca investigar **qué motivos nos llevan a actuar de manera distinta cuando estamos en grupo**.
+
 ## 4.4. Nivel filosófico
+No tienen tanta demostración experimental, son más bien teorías con un gran principio filosófico y que está en nosotros el aceptar o rechazar. Carecen de datos objetivos y verificables.
+
+Ejemplo:
+- Sigmund Freud, psicoanálisis: para él la motivación es negativa. Exponía el concepto de "pulsión" (impulso), una tensión interna que empuja al sujeto a hacer algo. (Preguntar por esto en los foros porque no lo termino de entender)
+- Rogers, Maslow: la conducta humana busca sobretodo la autorrealización. La motivación nos impulsa a alcanzar nuestro pleno potencial. No obstante estos enfoques están muy basados en la filosofía de quien lo plantea, y no se basan en datos empíricos así que no encajan en la psicología científica actual.
 
 # 5. Paradigmas de investigación en el estudio de la motivación
