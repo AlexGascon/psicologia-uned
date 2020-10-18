@@ -216,6 +216,40 @@ Resurge el estudio de la motivación, ahora es uno de los pilares básicos en la
 
 
 # 3. Dimensiones en el estudio de la motivación
+_Nota: si lo he entendido bien esto en realidad se refiere a las distintas perspectivas que puede tener un estudio sobre la motivación, e.g. cómo enfoca/justifica los resultados_
+
+### Dimensión nomotética-ideográfica
+La más importante de las dimensiones.
+
+- **Nomotética**: "proposición de ley" en griego. Se refiere a la tendencia a generalizar, a hacer leyes universales. Hace referencia a cómo intentamos hacer descubrimientos en una especie concreta que después podamos extrapolar a todas (e.g. investigar el hipotálamo de ratas de laboratorio y averiguar cómo se comporta en ellas para exxtrapolarlo a los humanos).
+- **Ideográfica**: de la tendencia a especificar, a entender lo que varía entre sujetos, lo subjetivo. Justo lo contrario que lo anterior, busca averiguar cuáles son las diferencias entre dos individuos o grupos (e.g. estudiar si en una concreta escuela de Badajoz se motivan más los niños o las niñas y por qué)
+
+### Dimensión innato-adquirida
+Contrapone las tendencias innatas de la motivación con las que se adquieren/aprenden.
+
+- **Innatas**: Defendida por McDougall, 1923, motivación = "instinto". Poca vigencia actualmente
+- **Adquiridas**: Predominantes en el siglo pasado, debido sobretodo al interés en conocer los factores de aprendizaje de la conducta motivada. Estos estudios analizaban cómo se adquiere esta conducta y cómo se aplica a la adquisición del estado motivacional.
+
+### Dimensión interna-externa
+Hace referencia al origen de los motivos. 
+
+- **Motivos internos**: parten de la idea de que los estados motivacionales son necesidades internas del organismo, como el hambre. Muchas de las necesidades son fisiológicas, pero también algunos autores incluyen necesidades sociales o psicológicas
+- **Motivos externos**: motivos como logro, poder, pertenencia. Examinan los efectos motivadores de los objetivos-meta o las relaciones sociales
+
+### Dimensión mecanicista-cognitiva
+
+- **Mecanicista**: supone que los cambios de ciertos factores activan e impulsan al organismo a realizar una conducta de manera automática, sin que el organismo tenga conciencia o intención. Ejemplos son el hambre, la sed y el sexo.
+- **Cognitiva**: afirma que el organismo interpreta la información, y que esto es lo que influye en el estado motivacional (ejemplo: si fracasamos en una tarea y asumimos que es por falta de capacidad, nuestra motivación se verá más mermada que si asumimos que es porque la tarea era difícil). Suele estar muy relacionada con los motivos externos y las tendencias adquiridas (de los apartados anteriores)
+
+---
+
+Algo importante es entender que el estudio de la motivación es tan complejo que tenemos que asumir que todods los enfoques anteriores tienen parte de razón. En unos casos concretos tienen más sentido unos enfoques, y en otros casos otros enfoques.
+
+Combinar estas dimensiones nos ayuda a explicar y encuadrar mejor las distintas teorías de estudio de la motivación. Ejemplos:
+- Teoría del instinto: perspectiva nomoética (aplica a animales y humanos), tendencia innata (la tenemos de nacimiento), motivo interno (busca saciar una necesidad básica) y mecanicista (ocurre automático, no llegamos a procesar el instinto)
+- Teoría conductista: nomoética, adquirida, externa y mecanicista
+
+No existe una teoría general que explique la motivación de manera perfecta, aunque sí que hay algunas que explican ciertos estados mejor que otras.
 
 # 4. Niveles de análisis en el estudio de la motivación
 ## 4.1. Nivel fisiológico
