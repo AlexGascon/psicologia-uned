@@ -159,7 +159,61 @@ Cosas a destacar:
 
 
 ## 2.2. Antecedentes fisiológicos
+La mayoría de las ideas actuales sobre motivación vienen de descubrimientos sobre el funcionamiento del sistema nervioso
+
+Galeno (siglo II) pronosticó que nervios sensoriales (los que llevan la información del exterior a nuestro sistema nervioso) y nervios motores (los que llevan la información de nuestro sistema nervioso a nuestros músculos) eran independientes. Lo confirmaron en el siglo XVIII Charles Bell y Francois Magendie. Este descubrimiento produjo interés por el estudio de la sensación y las respuestas motoras, y permitió el futuro análisis de conducta entre estímulos y respuestas.
+
+Johannes Müller
+- Propuso la _ley sobre la energía específica de los nervios sensoriales_: **cada sensación depende de la clase de receptor y del tipo de fibra nerviosa que se excita, y no de la clase de energía física que inicia la excitación**.
+- Esto implica que el humano **no puede percibir el mundo de manera objetiva**, sino a través de sus propios estados subjetivos. Esto explica por qué no todos tenemos la misma sensación de frío ante la misma temperatura
+- Pasamos a considerar al sistema nervioso **un mecanismo activo y descodificador**.
+
+Neurofisiología contemporánea
+- Refuta la teoría de Muller: **una fibra puede recibir impulsos de muchas terminaciones, y una neurona puede recibir estimulaciones de muchísimas fibras sensoriales**
+- Descubrimiento de **áreas de proyección corticales**: existen zonas específicas que actúan ante una determinada estimulación sensorial, y en estas áreas se dan las correspondientes respuestas. **Un estímulo puede activar varias áreas del cerebro, y muchos estímulos pueden ser activados en la misma área**
+- Un mismo tipo de energía puede ser sentido de manera distinta (e.g. como un color o como un sonido) en función de su punto de incidencia cerebral (¿de aquí vendrá la patología que hace ver las vocales como colores?)
+- Según Pinillos: tres momentos clave en el sistema nervioso
+ - **Aferencia**: Se recibe el estímulo y se transmite a los nervios correspondientes
+ - **Integración**: Se procesan de manera centralizada las aferencias
+ - **Eferencia**: El cerebro inicia los impulsos de salida para iniciar la acción (e.g. de los músculos)
+ 
+### Galvani
+Descubrió que la conducción nerviosa era un proceso eléctrico (conectó el músculo de la pata de una rana decapitada a una batería y vio que se movía). Fundamental porque **podemos producir movimiento en un músculo a voluntad aplicando una corriente eléctrica, y podemos registrar la actividad eléctrica que se produce en cualquier músculo**. También nos ha permitido estudiar dónde un estímulo determinado produce reacciones si medimos dónde se generan corrientes eléctricas (e.g. útil para entender mejor las zonas de la actividad cerebral).
+
+### Siglo XIX
+Se estudia la estructura y funciones del cerebro, e intentamos localizar funciones mentales en zonas concretas del cerebro. Hemos descubierto que el **hipotálamo se relaciona directamente con cambios en estados motivacionales**.
+
+### Escuela de la reflexiología rusa
+Centró su interés en el concepto de reflejo y la conducta refleja
+
+**Pavlov**, principal exponente: investigó sobre la fisiología del sistema nervioso superior y los reflejos. 
+
 ## 2.3. Antecedentes psicológicos
+William James llamó a la motivación "voluntad": defendía que la mente es una continuo de ideas y la conducta es sólo el resultado. **La conducta que ocurre es la que gana sobre las demás, la que hemos querido hacer**. Para él, "voluntad" combina:
+- Elección
+- Toma de decisiones
+- El pensamiento como tal
+Sus ideas anticipan el valor de los procesos cognitivos en la comprensión de la motivación
+
+### América, siglo XX
+Estudia cómo funciona la mente en su adaptación al medio ambiente.
+Su trascendencia fue el interés por estudiar el comportamiento de los animales. Entendía que las mentes de los animales, aunque sean más simples, también presentan muchos de los principios que rigen también la mente humana.
+Para definir la motivación, utilizaban la palabra **impulso** (iniciado por Woodworth, 1918): enfatiza la importancia de que la energía acumulada en el organismo impulsa la conducta, y lo consideran equivalente a un proceso mecánico comparándolo con como la energía motriz impulsa una máquina.
+
+1920: Se emplea por primera vez el término "motivación", haciendo referencia a un evento interno que no se podía observar pero que estaba vinculado a eventos externos observables.
+
+1923: McDougall intrudujo el término "instinto". Lo utilizaba para explicar todo tipo de conducta (de un modo un poco exagerado). Todo es instinto: el acto de comer, sentarse en la mesa, coger la cuchara con la mano...
+
+Conductistas: rechazaron el instinto para favorecer el concepto de aprendizaje. Se oponían al enfoque mentalista (e.g. la mente importa en la conducta), lo limitaban todo a estímulo-respuesta (sin organismo). Defendían que la conducta era una reacción al medio ambiente.
+
+De su defensa de la contribución del aprendizaje inspiró **la motivación por incentivos**: motivar a través de premios y castigos. 
+
+A finales de siglo, la psicología pone el foco en procesos cognitivos de nuevo. Se dejó de lado la motivación y se puso el foco en procesos puramente cognitivos: memoria, atención, pensamiento.
+
+### Siglo XXI
+Resurge el estudio de la motivación, ahora es uno de los pilares básicos en la conducta. Se consideran más dimensiones como relevantes: neurofisiológica, cognitiva, emocional, social, cultural.
+
+
 
 # 3. Dimensiones en el estudio de la motivación
 
