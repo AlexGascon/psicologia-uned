@@ -293,3 +293,35 @@ Ejemplo:
 - Rogers, Maslow: la conducta humana busca sobretodo la autorrealización. La motivación nos impulsa a alcanzar nuestro pleno potencial. No obstante estos enfoques están muy basados en la filosofía de quien lo plantea, y no se basan en datos empíricos así que no encajan en la psicología científica actual.
 
 # 5. Paradigmas de investigación en el estudio de la motivación
+
+### Paradigma experimental
+El investigador es el que determina la variable independiente del experimento (tipo, cantidad, etc). Después se observa cuál es el resultado en función de esta variable independiente.
+
+Ejemplo: el investigador da una cantidad determinada de un medicamento a cada paciente. Después compara el nivel de motivación de cada uno en función de la cantidad de medicamento que ha dado.
+
+Problema: como las variables que pueden ser modificadas son limitadas, el alcance de estas investigaciones no es muy alto. Además hay que repetir la investigación de diferentes maneras para asegurarnos de que no hay otras variables influyendo.
+
+### Paradigma correlacional
+Más que manipular, el investigador busca relaciones entre variables. Simplemente observamos qué ocurre.
+
+Problema: no se puede establecer una relación causa efecto (correlación no implica causalidad).
+
+### Paradigma cualitativo
+También conocido como método interpretativo. Enfatiza el estudio de una manera más descriptiva y con mayor carga interpretativa. Es habitual en ciencias sociales pero nuevo en psicología.
+
+No intenta ni experimentar ni correlacionar, solo conocer en profundidad los aspectos más concretos de una investigación. Se caracteriza por la profundidad del análisis e interpretación de los datos, y por que no intenta generalizar.
+
+Es muy útil cuando queremos estuiar casos únicos o con grupos de sujetos reducidos.
+
+Es especialmente útil cuando se está interesado en conocer la estructura de la situación y en conocer los diferentes significados y perspectivas que mantiene un grupo de individuos. También cuando no se puede utilizar el paradigma experimental (e.g. se corre el riesgo de falsear la realidad) ni el correlacional (e.g. no es posible medir relaciones entre variables). Ejemplo: se utiliza mucho en estudios motivacionales de pacientes con anorexia, donde no se puede usar experimental ni correlacional y lo que importa es aplicar las pruebas necesarias para conocer el nivel motivacional delpaciente.
+
+
+_(Esto de abajo ya no son paradigmas, sino distinciones en función del lugar de investigación)_
+### Estudios de laboratorio vs Estudios de campo
+- **Estudios de laboratorio**: Permiten un mayor control sobre los factores extraños que puedan contaminar los resultados (e.g. luz ambiente, sonido, temperatura).
+- **Estudios de campo**: Los resultados son más fáciles de generalizar, porque se han desarrollado en situaciones reales.
+
+Básicamente, es un trade-off de **control vs generalización**
+
+Escoger uno u otro dependerá de la finalidad de la investigación, la disponibilidad de los pacientes, el presupuesto...
+
