@@ -129,7 +129,7 @@ Ferguson, 2000: la dirección **proporciona a la naturaleza dinámica de la moti
 
 Es un aspecto **cualitativo** (vs la activación que es un aspecto cuantitativo).
 
-Es más difícil que la dirección prediga la conducta motivada (recordemos: conducta motivada -= consecuencia de la acción, e.g. estar hambriento --> comer) cuando hay muchas opciones entre las que elegir. 
+Es más difícil que la dirección prediga la conducta motivada (recordemos: conducta motivada == consecuencia de la acción, e.g. estar hambriento --> comer) cuando hay muchas opciones entre las que elegir. 
 
 Fernández-Abascal, 1995: la direccionalidad abarca tanto a los objetivos determinados genéticamente (un bebé tiene hambre, pide leche a su madre --> direccionalidad determinada genéticamente) como a los aprendidos por comportamiento humano (un adulto tiene hambre, va a comprar leche al supermercado --> direccionalidad determinada por comportamiento humano).
 
@@ -140,25 +140,89 @@ Dos variables principales:
   - Algo importante de esto es la importancia del foco: si de pronto aparece un objetivo nuevo más fácil de alcanzar, nos centraremos en él y dejaremos los demás de lado (reducirá su grado de atracción).
 
 # 4. Determinantes de la motivación
+**Determinantes de la motivación ---> Factores que causan la motivación**
+
 ## 4.1. Determinantes internos
 **Se originan dentro del organismo**
 
 ### 4.1.1. La herencia
+Hace referencia a los factores genéticos que causan la motivación. Se explican mediante dos enfoques distintos. Ambos de ellos coinciden en que la motivación es desencadenada por un estímulo ambiental.
+- **Enfoque instintivo**: la energía se acumula en el organismo y da origen a un estado motivacional. Entonces se producen las conductas.
+- **Enfoque fisiológico**: circuitos cerebrales vigilan el estado del cuerpo y activan las conductas cuando detectan algún cambio.
+
+_Ejemplo: conducta sexual de los animales:
+  - El enfoque instintivo lo justifica con la tensión sexual acumulada. Cuando consigue su conducta motivada (copular) descarga las hormonas y por tanto se va la motivación
+  - El enfoque fisiológico lo justifica con que el cerebro activa conductas (innatas y adquiridas) para conseguir el objetivo. Cuando lo consigue, el cerebro lo detecta y desactiva las conductas_
 
 
 ### 4.1.2. La homeostasis
+**La homeostasis es una función que tiene el organismo para volver a un estado de equilibrio óptimo, cuando este se ha perdido**.
+
+Esto asume que existe ese nivel óptimo de activación en varios estados del organismo. El término lo inventó Cannon (1932) refiriéndose sobretodo a estados fisiológicos. Señala que este estado no es fijo, sino que es una condición, puede variar constantemente. El cuerpo está totalmente motivado para mantener la homeostasis.
+
+Esto es muy fácil de ver con el frío o el hambre: la conducta motivada se activa únicamente cuando nos alejamos del estado de equilibrio.
+
+Cuando se tiene la sensación no-equilibrada, el cuerpo activa los receptores y busca la manera más rápida de volver a la estabilidad. Al principio se creía que esto ocurría en receptores periféricos (e.g. los de la piel o el resto del cuerpo) pero hoy se considera que son los receptores centrales del cerebro los que vigilan las sensaciones.
 
 ### 4.1.3. El crecimiento potencial
+**El crecimiento potencial hace referencia a la idea de que el ser humano está motivado para alcanzar su pleno desarrollo físico, psicológico y emocional**
+
+Un efecto secundario (pero muy importante) es lo que llamamos **motivación de efecto** o **causalidad personal**: nuestra necesidad de controlar o influir en el ambiente de nuestro entorno.
+
+Pero lo fundamental sigue siendo lo de la primera frase: **motivación constante para crecer y mejorar**.
+
+_Ejemplo: estudiar una carrera como forma de autorrealización, para crecer en nuestras capacidades y adaptarnos mejor a la sociedad_.
 
 ### 4.1.4. Los procesos cognitivos
+**Los procesos cognitivos hacen referencia a los determinantes que proceden de la información que recibimos y cómo la procesamos**. Es decir: el pensamiento. Cómo pensamos influye en nuesta motivación, en lo que queremos hacer. 
+
+Heider, 1958: teoría atribucional. _Ejemplos: si algo nos sale bien, lo interpretamos como que hemos hecho cosas bien, y por tanto nos sentimos más motivados para hacer más cosas. Si algo nos sale mal, lo interpretamos como que ha habido un fallo externo (circunstancias) y por tanto evitamos que nos desmotive_.
+
+Festinger, 1957: disonancia cognitiva. _Intentamos que todo lo que hacemos tenga consistente con quién creemos que somos o con el resto de nuestras acciones. Lo que en Atomic Habits se comenta como "Hago deporte" vs "Soy deportista", con lo segundo haremos deporte más fácilmente porque intentaremos cuadrarlo con nuestra identidad._
+
 
 ## 4.2. Determinantes externos
 **Se originan fuera del organismo, debido a influencias externas**
+
 ### 4.2.1. El aprendizaje
+**El aprendizaje hace referencia a las conductas que hemos aprendido a lo largo de nuestra vida** (no a que nuestra motivación sea aprender)
+
+Es el principal determinante externo de la motivación
+
+Muchas de las conductas motivadas que tenemos son simplemente las que hemos aprendido como reacción a un estímulo. 
+
+La observación es una de las principales formas de aprender conductas. Es importante tenerlo en cuenta pero lo veremos en más detalle en el cap 7 (Motivación + aprendizaje).
+
 ### 4.2.2. El hedonismo
+**El hedonismo hace referencia a la tendencia por buscar lo que nos produce placer y huir de lo que nos produce dolor**
+
+Ojo: placer y dolor no son fijos, dependen de las condiciones y la situación. No es igual de placentero que nos ofrezcan un plato de comida cuando tenemos hambre que cuando acabamos vs cuando acabamos de terminar de comer.
+
+Es un determinante externo porque se origina fuera del organismo, debido a estímulos y situaciones ambientales
+
 ### 4.2.3. La interacción social
+**La interación social hace referencia a cómo las relaciones con otras personas pueden afectar a nuestra motivación**.
+
+Esto se verá más en Psicología Social, pero ejemplos claros: presión de grupo; hacer caso a una figura de autoridad.
+
+---
+
+Para cerrar, importante: **todos los determinantes pueden actuar solos o conjuntamente**. Puede haber complejas interacciones entre ellos, así que la conducta resultante surge de uno o varios a la vez.
+
+Pero no todos tienen el mismo peso específico. Por ejemplo:
+- En **motivos innatos --> herencia, homeostasis y hedonismo** tienen más influencia
+- En **motivos adquiridos --> aprendizaje, interacción social, crecimiento potencial y procesos cognitivos**
+
 # 5. El proceso motivacional
 ## 5.1. La secuencia del proceso motivacional según Deckers
 ## 5.2. El proceso motivacional según Fernández-Abascal
 ## 5.3. El proceso de motivación propuesto por Palmero
+
 # 6. Componentes de la motivación
+**La mejor manera de entender la motivación es analizando los distintos sistemas que la integran: componentes biológicos, componentes aprendidos, componentes cognitivos**.
+
+En el pasado se optaba más por opciones extremistas (e.g. "estamos totalmente determinados por nuestra estructura genética" vs "tenemos control completo de nuestras acciones porque tenemos voluntad"). Hoy en día sabemos que en realidad es un término medio
+
+**Tres componentes motivacionales: Biológicos, Aprendidos, Cognitivos**. Es importante considerar los tres y como se interrelacionan, porque por ejemplo aprendizaje+cognición pueden llegar a modificar la expresión biológica.
+
+
