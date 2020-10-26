@@ -79,6 +79,33 @@ Petri y Govern (2005), dos características:
 ## 2.3. Estudios sobre la activación
 _(Esto para después que es más puramente teórico)_
 
+- **Ferguson, 2000**: La movilización de la energía y el gasto energético de la conducta han sido de interés durante mucho tiempo. _Ejemplo: variaciones de gasto energético (cuánta energía gastamos en una actividad o cómo varía el gasto en un periodo de tiempo); qué circunstancias conducen a una alta activación, en qué momento es más probable que la activación sea alta/baja; **relación entre rendimiento y activación**_.
+- **Ferguson, 2010**: _arousal_ significa exactamente es un estado de alerta o nivel de vigilia de un individuo en un momento determinado (no el aspecto energizante, aunque se usa mucho así). 
+- **Horne, 1988**: Mayor activación cuando aumento en la alerta, cuando mayor capacidad de respuesta y cuando mayor nivel de excitación fisiológica.
+- En **términos conductuales**: activación --> mayor intensidad, frecuencia y duración de las respuestas.
+  - **Malmo, 1957**: Mayor activación --> Mayor variedad de respuestas
+  - **Menéndez, 1983**: Mayor activación --> Respondemos una gama más estrecha de estímulos, seleccionando los más beneficiosos. (Este estudio y el anterior son distintos pero no contradictorios)
+- En **términos fisiológicos**: Activación --> Aumento de la actividad fisiológica (SNA). 
+  - **Watson, Gaind y Marks, 1972**: Aumento de tasa cardíaca cuando activación es por privación de alimentos o miedo.
+  - **_Muchos estudios_**: Cambios en presión arterial cuando hay variación de activación
+  - **Cambios cardiovasculares**: debido al aumento de actividad de rama simpática del SNA o a disminución de la rama parasimpática del SNA. 
+  - **Medidas para evaluar**: Electrocardiograma (ECG), actividad electrodermal (SCR, Skin Conductance Response; SPR, Skin Potential Response), electromiograma (acción muscular), amplitud y frecuencia respiratoria, ritmo y volumen sanguíneo.
+- **Sistema Nervioso Central**: Steriade, 1966: se producen cambios en áreas específicas del cerebro. Se usa el EEG para medir cambios en actividad cerebral.
+
+Al variar las tareas y situaciones, también varía la activación. Algunas situaciones pueden requerir una respuesta brusca y otras una respuesta tranquila, y tendrán reacciones distintas:
+- **Fraccionamiento direccional de respuestas**: Lacey, 1967. Disociación entre la respuesta conductual y la fisiológica. _Ejemplo: un conejo ante un depredador: sus pulsaciones aumentan, pero el miedo le paraliza (no hay conducta)_. 
+- **Respuesta estereotipada**: Lacey y Lacey, 1958. Para una amplia gama de estímulos, se responde conductual o fisiológicamente de la misma forma. 
+
+
+- **Medidas de autoinforme**: Cuestionarios que cumplimenta el propio sujeto para determinar su estado de activación. Podemos medir dos tipos de activación:
+  - **Estado de activación**: la activación en ese mismo momento (¿tiene palpitaciones?)
+  - **Activación en términos de rasgo**: más relacionado con la personalidad (¿es usted optimista?)
+- **Thayer, 1989**: Existen dos tipos distintos de activación, **activación energética** y **activación tensa**. 
+- **Thayer, 1996**:
+  - **Activación energética**: oscila entre activación máxima (vigor, energía) y actividad mínima (cansancio, fatiga). Se relaciona con sentimientos positivos
+  - **Activación tensa**: oscila entre miedo/ansiedad y calma/quietud. Se relaciona con situaciones negativas (cuando el sujeto se ve en peligro).
+  - Ambas activaciones son muy distintas, tanto en características fisiológicas como conductuales.
+
 ## 2.4. Activación y rendimiento
 
 # 3. Dirección
