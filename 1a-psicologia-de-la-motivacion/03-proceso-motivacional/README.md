@@ -107,17 +107,53 @@ Al variar las tareas y situaciones, también varía la activación. Algunas situ
   - Ambas activaciones son muy distintas, tanto en características fisiológicas como conductuales.
 
 ## 2.4. Activación y rendimiento
+Hay relación directa entre activación y reactividad fisiológica/actividad motora. A mayor motivación, mayor reactividad fisiológica/actividad motora.
+
+El individuo que e.g. esté más hambriento es probable que sea más persistente, y por tanto que realice más esfuerzo para saciar sus necesidades. 
+
+Brehn, Self (1989): a mayor potencial de motivación, mayor es la cantidad de energía que una persona está dispuesta a movilizar.
+
+### Ley de Yerkes-Dodson
+**Yerkes y Dodson (1908): la relación entre motivación y rendimiento es una curva en forma de U invertida. Tanto poca como mucha motivación son malas, el punto óptimo está en el medio**. (Poca motivación es mala porque no dedicamos energía, mucha porque nos volvemos imprecisos).
+
+El nivel óptimo de activación está inversamente relacionado con la dificultad: **si la tarea es más difícil, el punto óptimo es menos motivación. Una alta activación consigue el mejor rendimiento en tareas fáciles y una baja activación consigue el mejor rendimiento en tareas difíciles.** (_Ejemplo: estudiar tiene el punto óptimo en niveles bajos de activación, mientras que correr o hacer ejercicio tiene el punto óptimo en niveles altos de activación_)
+
+Sin embargo, estudios posteriores no pudieron confirmar esto del todo. Una posible razón es que no se distinguió entre activación tensa y activación energética. **Thayer, 1989: un aumento en activación energética aumentaba el rendimiento, y un aumento en activación tensa lo disminuía**. El exceso de motivación que hace que las tareas vayan mal puede ser porque es activación tensa.
+
 
 # 3. Dirección
 ## 3.1. Concepto de dirección
+La dirección es el otro aspecto necesario para entender la motivación: representa **hacia dónde dirigimos nuestra conducta, qué objetivos seleccionamos o qué metas perseguimos**. 
+
+Ferguson, 2000: la dirección **proporciona a la naturaleza dinámica de la motivación la variedad de acciones que van a mostrar los individuos**.
+
+Es un aspecto **cualitativo** (vs la activación que es un aspecto cuantitativo).
+
+Es más difícil que la dirección prediga la conducta motivada (recordemos: conducta motivada -= consecuencia de la acción, e.g. estar hambriento --> comer) cuando hay muchas opciones entre las que elegir. 
+
+Fernández-Abascal, 1995: la direccionalidad abarca tanto a los objetivos determinados genéticamente (un bebé tiene hambre, pide leche a su madre --> direccionalidad determinada genéticamente) como a los aprendidos por comportamiento humano (un adulto tiene hambre, va a comprar leche al supermercado --> direccionalidad determinada por comportamiento humano).
+
 ## 3.2. Variables de la dirección
+Dos variables principales:
+- **Expectativa de consecución**: cómo de posible vemos un objetivo determinado. Es subjetivo: si consideramos que el objetivo está lejos de nosotros, lo intentaremos menos. Si consideramos que está cerca, estaremos más motivados a intentar obtenerlo. Por esto en _Atomic Habits_ se menciona que los hábitos tienen que ser sencillos y estar a nuestro alcance, porque esto hace que dediquemos más esfuerzo a intentar ir a por ellos. _Ejemplos del deporte: Rafa Nadal remonta in extremis porque siempre está mentalizado de que puede ganar. El "Fergie time" funcionaba porque su Manchester United nunca se daba por vencido, un partido nunca estaba perdido hasta que se acababa de verdad_
+- **Grado de atracción**: cómo de atractivo nos resulta un objetivo determinado. Cuanto más nos atraiga un objetivo, mayor será nuestro nivel de actuación hacia él, más enfocaremos nuestra conducta a conseguirlo.
+  - Algo importante de esto es la importancia del foco: si de pronto aparece un objetivo nuevo más fácil de alcanzar, nos centraremos en él y dejaremos los demás de lado (reducirá su grado de atracción).
+
 # 4. Determinantes de la motivación
 ## 4.1. Determinantes internos
+**Se originan dentro del organismo**
+
 ### 4.1.1. La herencia
+
+
 ### 4.1.2. La homeostasis
+
 ### 4.1.3. El crecimiento potencial
+
 ### 4.1.4. Los procesos cognitivos
+
 ## 4.2. Determinantes externos
+**Se originan fuera del organismo, debido a influencias externas**
 ### 4.2.1. El aprendizaje
 ### 4.2.2. El hedonismo
 ### 4.2.3. La interacción social
