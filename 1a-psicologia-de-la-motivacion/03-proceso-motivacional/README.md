@@ -37,7 +37,7 @@ _Ojo que esto de ahora dicen que ha caído un montón de veces en los exámenes_
 Ferguson, 2000: la motivación es un proceso dinámico interno que energiza y dirige las tendencias de acción del individuo. Al ser dinámico puede implicar **un cambio en la manera de actuar del individuo**
 
 La variación de la motivación puede verse de dos maneras distintas:
-- **Intensidad** con la que desarrollamos el objetivo. Es una variable cuantitativa, representa la **cantidad** de motivación que tenemos, cómo de fuerte es la motivación. Cuando uno está más motivado, está más alerta y sensible y por tanto **realiza un mayor esfuerzo en las actividades que desarrolla**. 
+- **Intensidad** con la que desarrollamos el objetivo. Es una variable cuantitativa, representa la cantidad de motivación que tenemos, cómo de fuerte es la motivación. Cuando uno está más motivado, está más alerta y sensible y por tanto **realiza un mayor esfuerzo en las actividades que desarrolla**. 
   - Se suele referir a esto con el término inglés **arousal** o con el español **activación**
   - _Ejemplo: cuando nos acabamos de levantar normalmente estamos aletargados, lentos. No tenemos mucha motivación_
 - **Tipo o calidad** de la motivación. Nos conduce a elegir un comportamiento determinado, determina la **dirección** de la acción
@@ -84,7 +84,7 @@ _(Esto para después que es más puramente teórico)_
 - **Horne, 1988**: Mayor activación cuando aumento en la alerta, cuando mayor capacidad de respuesta y cuando mayor nivel de excitación fisiológica.
 - En **términos conductuales**: activación --> mayor intensidad, frecuencia y duración de las respuestas.
   - **Malmo, 1957**: Mayor activación --> Mayor variedad de respuestas
-  - **Menéndez, 1983**: Mayor activación --> Respondemos una gama más estrecha de estímulos, seleccionando los más beneficiosos. (Este estudio y el anterior son distintos pero no contradictorios)
+  - **Menéndez, 1983**: Mayor activación --> Respondemos una gama más estrecha de estímulos, seleccionando los más beneficiosos. (Este estudio y el anterior son distintos pero no contradictorios, ver [este mensaje del foro](https://2021.cursosvirtuales.uned.es/dotlrn/grados/asignaturas/62011089-21/uforums/message-view?message%5fid=28871841) para la clarificación. Básicamente, en ambos estudios se dice que + activación = + rendimiento, pero en el segundo se clarifica que es porque seleccionamos a qué responder)
 - En **términos fisiológicos**: Activación --> Aumento de la actividad fisiológica (SNA). 
   - **Watson, Gaind y Marks, 1972**: Aumento de tasa cardíaca cuando activación es por privación de alimentos o miedo.
   - **_Muchos estudios_**: Cambios en presión arterial cuando hay variación de activación
@@ -215,9 +215,44 @@ Pero no todos tienen el mismo peso específico. Por ejemplo:
 
 # 5. El proceso motivacional
 ## 5.1. La secuencia del proceso motivacional según Deckers
-## 5.2. El proceso motivacional según Fernández-Abascal
-## 5.3. El proceso de motivación propuesto por Palmero
+- Tres momentos:
+  - **Elección del motivo**: Depende de varios factores: **intensidad** con la que lo deseamos, **atractivo** del motivo, **probabilidad*** de conseguirlo y **cantidad de esfuerzo** que requiere. 
+  - **Ejecución de la conducta**: Incluye decidir qué actividades realizaremos y la realización en sí. Hay tres aspectos de la conducta que nos permiten determinar el nivel de motivación
+    - **Duración**: cantidad de tiempo que se dedica (_e.g. el estudiante que estudia 3h está más motivado que el que estudia 1h_)
+    - **Frecuencia**: cuántas veces realizamos la conducta motivada (_e.g. estudiar 6 veces por semana > estudiar 2 veces por semana_)
+    - **Intensidad**: esfuerzo que llevamos a cabo (_e.g. si el objetivo es ponerse en forma, correr 10Km vs correr 1Km_).
+  - **Satisfacción (o no) del motivo**: Finalizamos la conducta motivada.
 
+- Cómo comprender si el individuo está motivado:
+  - **Analizar el objetivo**: ¿qué cantidad hizo falta para inducir al comportamiento? (_e.g. cuánta comida hizo falta para que unas ratas recorriesen un laberinto, o cuánto dinero hizo falta para que una persona hiciese una conducta?_)
+  - **Ejecución de conducta consumatoria**: analizar si se ha llegado a conseguir el objetivo (_e.g. para un estudiante, terminar la carrera_)
+  - **Examinar la satisfacción**: ¿qué ha sentido el individuo tras conseguir su objetivo? Si es alivio u orgullo, es que ha cumplido su motivación. Si es decepción, no ha llegado hasta el punto de motivación que buscaba. 
+    - **Procesos de atribución causal:** Parte muy importante del proceso motivacional. Tras realizar la conducta, el individuo evalúa las causas que le han llevado a conseguir el objetivo (o no). Con esto decidirá si en futuras ocasiones compensa repetir la conducta para llegar al mismo objetivo. Si no lo ha conseguido, también decidirá si seguir persiguiéndolo o si cambiar a otro.
+
+## 5.2. El proceso motivacional según Fernández-Abascal
+
+## 5.3. El proceso de motivación propuesto por Palmero
+Palmero diferencia dos momentos diferentes en el proceso motivacional:
+- **Toma de decisiones y elección de objetivo** 
+- **Control del resultado**
+
+### Toma de decisiones y elección del objetivo
+Cinco fases:
+- **Ocurrencia o aparición del estímulo:** dos tipos: si es interno lo llamamos **necesidad**. Si es externo lo llamamos **deseo**. El estímulo puede aparecer físicamente (e.g. si tenemos hambre y vemos una manzana), como parte del pensamiento (si pensamos en una manzana) o como una alucinación (vemos algo que se parece a una manzana y nos recuerda a una de verdad).
+- **Percepción del estímulo:** puede ocurrir de dos maneras: **consciente** (detectamos el estímulo y nos llama la atención) o inconsciente (no detectamos el estímulo, pero afecta a nuestros receptores y activa el comportamiento igualmente. Un ejemplo es la publicidad subliminal o los sesgos cognitivos).
+- **Evaluación y valoración del objetivo:** se encargan de decidir si la conducta motivada se activa o no. Evaluamos la probabilidad de conseguir cada objetivo y el esfuerzo que nos requiere; valoramos cuánto nos satisface cada posible objetivo, o las consecuencias negativas si no lo conseguimos.
+- **Decisión y elección del objetivo:** con los datos del punto anterior, tomamos una decisión
+- **Conducta motivada:** ejecutamos la conducta que creemos que nos llevará al objetivo. Incluye también una parte de evaluación, para saber cuál de las estrategias o recursos con los que contamos es la mejor para esta situación. 
+
+La activación y la dirección juegan un papel importante en este primer momento:
+- **Activación**: se inicia desde que el organismo detecta una necesidad. Se produce una activación homeostática para saciarla. También sucede cuando percibimos (conscientemente) un estímulo: la activación nos hace realizar todos los pasos del proceso motivacional. Cuando elegimos conducta se vuelve más específica, porque actúa sólo en ese ámbito. 
+- **Dirección**: ocurre en 1) evaluación y valoración del objetivo y 2) elección de una conducta motivada concreta
+
+### Control del resultado
+Tres fases:
+- **Verificación de la congruencia**: comparar la situación actual y lo que se espera obtener. Si la congruencia es máxima, se continua con el proceso. 
+- **Atribución de causas**: se analizan las decisiones tomadas: elección del objetivo, y de las conductas a seguir para alcanzarlo. No es necesario que la conducta haya terminado ya, cuanto antes ocurra mejor para que el individuo esté seguro de que el objetivo y las conductas de verdad le acercarán a lo que quiere.
+- **Generalización de los resultados**: asociar las conductas con el resultado, para utilizarlas de nuevo en el futuro cuando busquemos objetivos similares.
 # 6. Componentes de la motivación
 **La mejor manera de entender la motivación es analizando los distintos sistemas que la integran: componentes biológicos, componentes aprendidos, componentes cognitivos**.
 
