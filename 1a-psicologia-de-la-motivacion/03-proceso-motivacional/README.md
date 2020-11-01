@@ -230,11 +230,25 @@ Pero no todos tienen el mismo peso específico. Por ejemplo:
     - **Procesos de atribución causal:** Parte muy importante del proceso motivacional. Tras realizar la conducta, el individuo evalúa las causas que le han llevado a conseguir el objetivo (o no). Con esto decidirá si en futuras ocasiones compensa repetir la conducta para llegar al mismo objetivo. Si no lo ha conseguido, también decidirá si seguir persiguiéndolo o si cambiar a otro.
 
 ## 5.2. El proceso motivacional según Fernández-Abascal
+Representa el proceso motivacional de manera esquemática. Puntos importantes:
+
+- Empieza todo cuando se activan los determinantes
+- Introduce un nuevo elemento, la **intención**: es un elemento autorregulador de activación y dirección, que los ayuda a ocurrir
+- Reincidimos en la importancia de la **intención**: es el factor motivacional que más incide en la conducta. Cuanto más fuerte sea la intención, más probable será que se produzca la conducta (pero **solo si el individuo elige libremente si realizar la conducta o no**). Depende de dos factores
+  - **Actitud**: evaluación que el sujeto hace de la conducta
+  - **Normas subjetivas**: creencias que ejercen presión social y empujan al sujeto a realizar (o no) ciertas conductas.
+- El sistema se retroalimenta: la conducta motivada influye en la intención, y esta modifica activación/dirección (_ej. un estudiante modifica su activación/dirección en función de cómo se le da su conducta motivada (aprobar): si le va mal intenta estudiar más horas o de una manera diferente_)
+- Pueden actuar uno o varios determinantes. Los determinantes internos ejercen como **tracción** (incitan al comportamiento), los externos funcionan como **propulsión** (dan fuerza o lo impulsan)
+- **RESUMEN**: lo del gráfico: los determinantes movilizan la intención de realizar una conducta con una determinada activación o dirección; dicha conducta produce cambios en la intención, creando así retroalimentación en el proceso motivacional
+
+![](./imgs/52-proceso-motivacional-fernandez-abascal.jpg)
+
 
 ## 5.3. El proceso de motivación propuesto por Palmero
 Palmero diferencia dos momentos diferentes en el proceso motivacional:
 - **Toma de decisiones y elección de objetivo** 
 - **Control del resultado**
+![](./imgs/53-proceso-motivacional-palmero.jpg)
 
 ### Toma de decisiones y elección del objetivo
 Cinco fases:
