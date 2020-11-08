@@ -185,7 +185,45 @@ Aparte de la ingesta por desequilibrio orgánico, está la **ingesta espontánea
 ## 5.4. Privación de sueño
 ### 5.4.1. Privación total de sueño
 ### 5.4.2. Privación selectiva de sueño
+
 # 6. Sexo
+También se explica mediante el modelo homeostático, pero en este caso no hay mecanismos reguladores a corto plazo. **La motivación sexual no es regulatoria**.
+
+No es un mecanismo necesario para la vida biológica, pero sí para la supervivencia de la especie. Se define el motivo de sexo como **motivo básico fundamental relacionado con la supervivencia de la especie** (Palmero, 2005)
+
+La actividad sexual es controlada por hormonas sexuales y está ligada al ciclo reproductivo de las hembras. Esta dependencia es cada vez menor cuando ascendemos en la escala filogenética, en los humanos ya es muy independiente. 
+
+En el ser humano la motivación sexual está muy mediatizada por aprendizaje y valores, termina siendo una interacción entre fisiología y entorno. En los humanos termina teniendo más peso el factor de aprendizaje que el biológico. 
+
+Los estímulos que surgen de imaginación/fantasía también influyen. Aguado, 2005: el deseo o la expectativa del placer provocado por el sexo es el principal determinante psicológico de la conducta sexual 
+
+
 ## 6.1. Motivación sexual y hormonas sexuales
+En el ser humano la influencia de las hormonas es menor, pero sigue ejerciendo un papel importante. Constituyen uno de los factores relevantes.
+
+Las hormonas determinan el nivel de activación o excitabilidad sexual. También modulan y facilitan la activación de las conductas apropiadas. 
+
+Dos efectos de las hormonas (_esto es vital, cae muchísimo_)
+- **Efecto organizador**: se produce durante el periodo prenatal y es irreversible. Son los efectos que diferencian entre machos y hembras (e.g. si durante el embarazo hay mayor tipo de hormonas de un tipo u de otro, el bebé será chico o chica).
+- **Efecto activador**: el papel que tienen cuando el cuerpo es maduro, es reversible y temporal. Es el que activa y modula la conducta sexual
+
+Las hormonas sexuales son segregadas por las glándulas sexuales (ovarios/testículos) e interactúan directamente con el sistema nervioso. No se conoce exactamente como ocurre, pero se considera que está relacionado con el hipotálamo. Tumores u otras patologías del hipotálamo modifican la conducta sexual.
+
+La conducta consumatoria depende de la médula espinal, aunque el cerebro es importante. Eso explica que pueda haber estimulación sexual sólo con imaginación o estímulos externos.
+
 ## 6.2. Motivación sexual y aprendizaje
+En humanos el sexo tiene gran valor por sí mismo, así que la motivación normalmente no va ligada a la conducta reproductiva. 
+
+Los valores, los hábitos aprendidos y las preferencias adquiridas tienen gran efecto en la motivación sexual. Aprendizaje asociativo: algunas acciones fisiológicas y conductuales, o el ambiente, pueden aumentar la producción de hormonas sexuales por su asociación con reforzadores sexuales o con experiencias (ejemplo: una experiencia sexual satisfactoria en un coche puede hacer que aumente nuestra motivación sexual al volver a ir en coche)
+
+Investigaciones con animales han demostrado que existe:
+- Preferencia condicionada de lugar: lugares donde ha habido experiencia sexual positiva aumentarán la motivación
+- Experiencia temprana con olores: se sometió a olores concretos a crías macho de ratas durante la lactancia, y se observó que de adultos eyaculaban más rápido si estaban con hembras portadoras de dicho olor.
+
+El aprendizaje también se ha demostrado con humanos. Ejemplos de condicionamiento clásico: Ratchman, 1966: se expuso a hombres a imágenes de mujeres desnudas con botas. Después se confirmó que dichas botas generaban excitación sexual. 
+
 ## 6.3. Motivación sexual y factores sociales y culturales
+Los factores sociales (sociedad en la que se vive, familiares, amigos...) determinan lo que se aprende y lo que se considera una motivación sexual apropiada
+
+Los factores culturales determinan qué se considera normativo, y esto puede variar mucho entre culturas. Incluso entre valores sexuales aceptados, la cultura determina qué se puede manifestar públicamente y qué se reduce a lo privado. Esto también puede variar con el tiempo (e.g. antes estaba mal visto que dos personas se besaran en público, ahora no).
+
