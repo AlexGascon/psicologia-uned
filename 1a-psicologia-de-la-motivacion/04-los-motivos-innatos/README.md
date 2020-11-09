@@ -91,6 +91,32 @@ Se autorregula a corto y largo plazo
 La comida se ha utilizado mucho en experimentación básica como factor motivacional, es muy buen reforzador. Especialmente en animales, es muy fácil hacerles adquirir o reforzar conductas utilizando comida. Esto implica primero privarles de ella y luego dársela como nosotros queramos para "guiar" la conducta.
 
 ## 3.1. Aspectos neurofisiológicos de la conducta de comer
+_(Esta sección entera es vital, se pregunta muchísimo. Especialmente las 2 hipótesis y las 2 secciones del hipotálamo)_
+
+Función básica de la alimentación: **provisión de energía para llevar a cabo funciones vitales y reparar el desgaste, y ayudar al crecimiento**.
+
+Tres fases de la conducta del comer:
+- Ingesta de alimento
+- Proceso digestivo
+- Distribución del alimento por células y tejidos, y absorción: cuando empieza se incrementa el nivel de glucosa (azúcar simple utilizado para obtener energía) y la secreción de insulina por el páncreas (permite que la glucosa llegue al interior de las células, donde se utiliza como combustible). La glucosa sobrante es almacenada como reserva en el hígado.  
+
+Dos hipótesis sobre la señal del hambre:
+- **Hipótesis glucostática**: (Meyer, 1955) El hambre se produce por una disminución del nivel de glucosa en sangre. Explica también el mecanismo de regulación a corto plazo: mantener el nivel de glucosa en sangre. También influye la insulina: su secreción aumenta la sensación de hambre.
+- **Hipótesis lipostática**: Regulación del hambre a largo plazo (mantenimiento del peso corporal). Propone la existencia de señales fisiológicas que regulan el hambre (como la insulina) y que son proporcionales a la cantidad de grasa almacenada
+
+También interviene la **grelina**: la hormona responsable de que aparezca el hambre a las horas de comer.
+
+Quien regula toda esta información es realmente el cerebro. Allí llegan todas las señales y se procesan en el hipotálamo. Dos áreas que controlan:
+- **Hipotálamo lateral (HL)**: induce el hambre. Cuando se lesiona, los animales dejan de comer.
+- **Hipotálamo ventromedial (HVM)**: induce la saciedad (deprime sensación de hambre). Cuando se lesiona, ingesta excesiva de comida, y se ve afectada la "palatabilidad" (la comida que sabe bien, sabrá genial; la que sabe mal, sabrá peor)
+- **Núcleo Paraventricular (NPV)**: descubierto recientemente
+
+Otra hormona reguladora, **leptina**:
+- Segregada por el tejido adiposo. Modula el gasto energético.
+- Responsable de la sensación de saciedad
+- Su principal misión es adaptar el cuerpo a los estados de hambre. Sus niveles son bajos en personas con anorexia y personas con apenas masa adiposa
+- **Actúa como indicador de reservas energéticas del organismo e informa de la necesidad de reponer dichas reservas**
+
 
 ## 3.2. Aprendizaje y conducta de comer
 El aprendizaje influye en cuándo sentimos hambre y en qué tenemos ganas de comer. La ingesta interactúa directamente con los sistemas neurofisiológicos y neuroquímicos que favorecen el placer.
