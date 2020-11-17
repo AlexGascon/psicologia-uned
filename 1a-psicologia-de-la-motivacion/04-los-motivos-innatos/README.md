@@ -202,15 +202,129 @@ Aparte de la ingesta por desequilibrio orgánico, está la **ingesta espontánea
 
 
 # 5. Sueño
+No se conoce con totalmente como proceso fisiológico, pero su importancia biológica es indiscutible.
+
+Recuperación física + psíquica
+
+**No es un proceso pasivo, sino activo: no es únicamente para que nos recuperemos, sino que hay una reestructuración psíquica para sistematizar y clasificar lo que hemos adquirido a lo largo del día**
+
+Influye directamente en otras funciones: equilibrio hormonal, sistema inmunitario.
+
+
 ## 5.1. Factores relevantes en relación al sueño
+- **Ritmos circadianos**: ritmos biológicos que presentan una duración de un día (_circadianos = circe [cerca de] + dies [dia]_) y son cíclicos. Influye en cuándo nos despertaremos.
+- **Tiempo transcurrido sin dormir**: proceso homeostático. Cuanto mayor sea, más probable es que se inicie el sueño.
+
 ## 5.2. Fases y tipos de sueño
 ### 5.2.1. Fases del sueño
+Existen 5 fases diferentes.
+
+Formas de determinar en qué fase se encuentra un sujeto:
+- Electroencefalograma (EEG): medir la actividad eléctrica del cerebro. Es el más utilizado
+- Electrooculograma: medir movimientos oculares
+- Tono muscular
+- Respiración
+
+#### Fase I
+- Transición entre sueño y vigilia
+- Percibimos estímulos y somos capaces de responder
+- Sueño poco o nada reparador
+- Poco tono muscular
+- Ondas theta de baja amplitud (3.5 - 7.5 Hz)
+
+#### Fase II
+- Estado de relajación un poco más profundo
+- Ya no percibimos estímulos, desconexión del entorno
+- Sueño solo parcialmente reparador
+- Menor tono muscular que en fase I
+- Disminución del ritmo EEG con aparición de explosiones de actividad rápida ("husos de sueño", ondas de 12 a 14 Hz) y complejos K (ondas repentinas y puntiagudas, 1/min aprox)
+
+#### Fase III
+- El sujeto ya empieza a descanasar de verdad
+- Bloqueo sensorial mayor aún
+- Si despertamos en esta fase estaremos confusos y aturdidos
+- Déficits de esta fase (y de la IV) ocasionan somnolencia diurna
+- Menor tono muscular que en fase II
+- Ondas delta (3.5Hz, lentas y grandes) entre el 20 y el 50% de toda la act. cerebral
+
+#### Fase IV
+- Fase con mayor profundidad del sueño, tremendamente reparador
+- Si despertamos, estaremos más confusos y aturdidos aún
+- Déficits de esta fase (y de la III) ocasionan somnolencia diurna
+- Aquí ocurren alteraciones como el sonambulismo
+- Tono muscular muy reducido
+- Ondas delta con más de 50% de aparición
+
+#### Fase MOR (sueño paradójico)
+- Movimientos Oculares Rápidos (_REM = Rapid Eye Movements_ en inglés).
+- Respiración acelerada e irregular, mayor ritmo cardíaco
+- Tono muscular nulo
+- Ondas theta, beta (14 a 30 Hz, y propias de la vigilia) y desincronización del EEG
+
 ### 5.2.2. Tipos del sueño
+Dos tipos:
+
+- **Sueño lento (NMOR)**
+  - Movimientos de los ojos nulos o lentos
+  - Sincronización en el EEG
+  - Actividad en la rama parasimpática del RNA (almacenamiento de energía)
+  - Tasa cardíaca, actividad muscular o temperatura disminuyen
+  - Los sueños representan un pensamiento conceptual y racional
+
+- **Sueño paradójico (MOR)**: 
+  - Movimientos oculares rápidos
+  - Desincronización en el EEG (parecido a la vigilia)
+  - Desaparición del tono muscular
+  - Predomina la rama simpática del sistema nervioso
+  - La frecuencia de esta fase disminuye con la edad
+  - Aumento del consumo de oxígeno, del flujo sanguíneo cerebral, del ritmo cardíaco y de la presión sanguínea
+  - Activación de la amígdala (emociones)
+  - Sueños formados por imágenes raras y sin sentido, incongruentes. Los sueños se viven más, tienen más carga emocional
+  - Este sueño es muy importante en la memoria, aquí se produce la consolidación de lo aprendido
+
+
 ## 5.3. Functiones del sueño
 ### 5.3.1. Sueño y recuerdo: experimentos realizados
+
+- **Hu et al (2006)**: **El sueño favorece el recuerdo pero sólo de imagenes con contenido emocional**. Lo demostraron mostrando fotos de elementos neutros (muebles) y escenas impactantes (accidentes, personas lesionadas graves) a dos grupos de sujetos: unos las veían antes de acostarse, otros a primera hora de la mañana. Los que vieron las fotos antes de dormir recordaban mejor las escenas impactantes. No había diferenciacon los elementos neutros
+- **Payne et al (2008)**: **El sueño refuerza los recuerdos de elementos emocionales, sobretodo negativos**. Para demostrarlo hicieron un experimento similar al anterior pero en el que las imágenes tenían un elemento emocional y un elemento neutro en primer plano y solo elementos neutros en el fondo/segundo plano. Los sujetos que vieron las fotos antes de dormir recordaron mejor los elementos emocionales, pero no hubo diferencia entre los elementos neutros (ni de primer ni de segundo plano). Con esto demostraron que lo del experimento anterior no fue solo porque nos fijamos más en lo que hay en primer plano, sino que de verdad era el elemento emocional.
+- **Wilhelm et al (2011)**: **dormir nos ayuda a recordar elementos que serán útiles en una situación emocional, aunque los elementos sean neutros**. Lo demostraron asignando tareas de aprendizaje a un grupo de gente, y a la mitad de les dijo que se les sometería un examen y también a la mitad se les dejó dormir antes del examen. Sólo los que durmieron y sabían que se les iba a examinar lograron muy buenos resultados. Todos los que durmieron tuvieron mayor actividad cerebral (medida con EEG) en fase MOR, y los que sabían lo del examen tuvieron más actividad aún. 
+
 ## 5.4. Privación de sueño
 ### 5.4.1. Privación total de sueño
+Efectos:
+- Tras 24h: necesidad de dormir, fatiga
+- De 2 a 5 días: alteraciones en visión, sueños al estar despierto
+- Tras 5 días: más sueños y una aparente recuperación de la fatiga. Delirios paranoides y alucinaciones
+
+Otros efectos comunes:
+- Aumento del tiempo de reacción al realizar tareas
+- Menos velocidad al realizar tareas matemáticas
+- Déficit en tareas psicomotoras
+- Deterioro general en tareas que requieren atención selectiva
+- Interferencias en el aprendizaje y la memoria
+
+Las alteraciones son reversibles: tan pronto como el sujeto duerme, se recupera de ellas. Se incrementará el tiempo dedicado a dormir
+
 ### 5.4.2. Privación selectiva de sueño
+**Privación de sueño en fase IV**
+- **Fenómeno rebote: cuando al sujeto se le priva de sueño en una fase concreta, entra con más frecuencia y facilidad en dicha fase**
+- Sensaciones corporales desagradables y malestar físico
+- (En ocasiones) Cansancio, fatiga, depresión
+
+**Privación de sueño en fase MOR**:
+- **Fenómeno rebote**
+- Menos acceso a recuerdos emocionalmente importantes (sueño REM es importante en integración de material emocional)
+- Dificultad en la retención de lo aprendido (sueño REM realiza trabajo importante de consolidación de aprendizaje)
+- Manifestación de características propias de sueño paradójico en fases NMOR y despierto
+- Transcurridos 3 días de privación, se entra directamente en fase MOR al empezar a dormir
+
+**Stickgold, 2015 - Efectos de la privación en la salud**:
+- **Sistema Nervioso Central (SNC)**: funciones cognitivas y cerebrales afectadas negativamente (memoria, apetito, emociones)
+- **Sistema Inmunitario**: menor eficacia en combatir enfermedades
+- **Sistema Endocrino**: menor sensibilidad a la insulina (relacionada con el hambre) --> mayor riesgo de obesidad
+
+
 
 # 6. Sexo
 También se explica mediante el modelo homeostático, pero en este caso no hay mecanismos reguladores a corto plazo. **La motivación sexual no es regulatoria**.
