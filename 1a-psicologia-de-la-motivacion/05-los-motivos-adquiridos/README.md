@@ -103,8 +103,51 @@ En el sistema de McClelland todos los motivos dominantes son aprendidos y **con 
 
 # 4. Motivo de logro
 ## 4.1. Concepto y definición del motivo de logro
+McClelland, 1961: **afán o interés por lograr o conseguir una norma de excelencia**. Atribuyó a este motivo la función de impulsar el desarrollo histórico de los pueblos, puesto que se incita al ser humano al éxito.
+
 ## 4.2. Primeros estudios sobre el motivo de logro
+#### Murray
+El primero en señalar el motivo de logro. Observó grandes diferencias entre sujetos en como se enfrentaban a los obstáculos que había en el camino a sus metas. Su definición: _la necesidad de realizar algo difícil, [...] superar obstáculos y obtener un alto standing, sobreponerse a sí mismo [...] y en definitiva, aumentar la autoconsideración debida a la ejecución exitosa y al talento personal_. Creyó que **el placer del logro no estaba en el objetivo, sino en el proceso**.
+
+(Importante)
+Desarrolló un test, **Test de Apercepción Temática o TAT** para medir la tendencia hacia el logro. Mostraban personas en situaciones que no se ven claramente, como difuminadas, de manera que resultara difícil saber si estaban alegres, tristes... se pedía al paciente que interpretara la situación, y como no se veía clara, lo que el paciente interpretaba eran sus motivos inconscientes.
+
+#### McClelland
+El que más lo ha investigado. Adaptó el TAT para descubrir la motivación y fantasía de los sujetos a los que estudiaba.
+
+Su aportación más importante fue la **conducta dirigida a la meta: el sujeto es consciente de la meta y anticipan las consecuencias afectivas de éxito o fracaso en la obtención de la meta**
+
+1980: investigaciones sobre los aspectos afectivos y sociales del motivo de logro. Descubrió que es **el deseo o necesidad de realizar las cosas del mejor modo posible, no para satisfacer a los demás o conseguir su aprobación sino para obtener la propia satisfaión**. De aquí sacaron que **algunos están motivados por el placer del éxito, y otros por el miedo al fracaso**.
+
+#### Winterbottom
+Trató de averiguar cómo se adquiría este motivo. Hipótesis: se adquiere en la infancia, dependiendo de la relación entre padres e hijos. Descubrió que los padres de niños con alto motivo de logro: 1) hacían mucho hincapié en que sus niños sean independientes lo antes posible (ordenando su habitación, cuidaran su ropa...) 2) no utilizaban castigos, sino recompensas. En cambio, en niños con bajo motivo de logro ocurría lo contrario.
+
+Confirmado en otro estudio por Rosen y D'Andrade: los padres de niños con alto motivo de logro les animaban pero no se interponían, y los de niños con bajo motivo de logro siempre les ayudaban.
+
+#### McClelland (1961)
+Confirmó que se adquiría en la infancia, _entrenamiento temprano de la independencia_. Estudió si esto ocurría en distintas culturas o solo en la norteamericana. Dos variables muy relacionadas: 1) nivel de aspiraciones de los padres 2) Nivel de autoestima que transmiten a sus hijos
+
+Infancia y adolescencia ejercen una clara influencia sobre el modo en que el niño se enfrenta a sus primeras metas.
+
+#### Artola, Barraca, Mosteiro
+
+#### McClelland (1965, 1969)
+Estudio del efecto del motivo de logro en una sociedad, en el desarrollo de un país. **Descubrió correlación positiva entre motivo de logro y desarrollo económico**. Lo estudió estudiando los cuentos, leyendas, mitos más representativos de cada país como exponente de su fantasía nacional
+
+#### Atkinson (1984)
+Teoría matemática sobre el motivo de logro: **motivo de afán de logro de preferencias de riesgo: la conducta de logro dependía es el resultado del conflicto entre esperanza de éxito + temor al fracaso, combinado con la probabilidad de cada uno**. 
+
+Los sujetos con mucha motivación de logro eligen tareas de dificultad intermedia (un poco difícil, pero con posibilidad de conseguirlo); los que no la tienen, eligen tareas o muy fáciles o muy difíciles (esto último no lo pudo confirmar con sus estudios). 
+
+La teoría de Atkinson tuvo mucha repercusión, ha dominado la investigación sobre conducta de logro durante varios años.
+
 ## 4.3. La conducta desencadenada por el motivo de logro
+Se caracteriza por una preocupación por hacer las cosas mejor que antes, superando criterios o estándares de excelencia. **Ante cualquier situación de logro, el individuo evaluará su propia actuación, comparándose con el nivel de ejecución de otras personas o de el que se ha impuesto a sí mismo y se asignará una reacción de éxito o fracaso**
+
+Características de las personas con conductas según Chóliz (1995, 2004):
+- **Buscan activamente el éxito profesional**, asumiendo ciertos riesgos pero sin exceder sus capacidades reales
+- **Emprendedoras**
+
 ## 4.4. La adquisición y desarrollo del motivo de logro
 ## 4.5. Estilos de motivo de logro
 ## 4.6. Motivo de logro y personalidad
@@ -146,9 +189,57 @@ En resumen: **es una de las variables imprescindibles para entender cómo se con
 
 
 # 6. Motivo de poder
+
 ## 6.1. Concepto y definición del motivo de poder
+**Motivo de poder = interés por dominar y controlar el comportamiento de los demás**
+
+Dos aproximaciones:
+- **Miedo a perder el poder y/o a sufrir el poder de otros**
+- **Atracción al poder en sí mismo**
+
+Winter, 1973:
+- Lo define como **la necesidad de tener impacto, control o influencia sobre otra persona, grupo o el mundo en general**. Se impone esta manera de considerar el motivo porque así lo separa totalmente con el motivo de logro, afiliación o intimidad. 
+  - Impacto: lo que permite a los individuos que inicien y establezcan el poder
+  - Control: lo que ayuda a mantenerlo
+  - Influencia: lo que posibilita extenderlo o recuperarlo
+- La definición es muy amplia, pero la clave está en **influir en la conducta o los sentimientos de otra persona**. Por eso el concepto de motivo de poder estaría **muy cercano a las necesidades de dominancia, reputación, posición y estatus**. Por ello, hay muchos sinónimos de _motivo de poder_, por ejemplo: _necesidad de poder, necesidad de dominancia, necesidad de influencia, impulso de poder, voluntad de poder_.
+
+De Santamaría, 1987: matiza que el motivo de poder es la necesidad **de controlar los medios** para tener impacto, control... Es un matiz importante por que da importancia al procedimiento para conseguirlo. 
+
+McClelland, 1985:
+- El motivo de poder tiene los requisitos para ser considerado importante
+  - **Función energizante**: está relacionado con la activación del Sistema Nervioso simpático
+  - **Función orientadora**: los individuos con mayor motivo de poder presentan mayor actividad cerebral ante estímulos relacionados con el pdoer vs estímulos neutros
+  - **Función selectiva de la conducta**: los individuos con mayor motivo de poder recuerdan mejor escenas y experiencias relacionadas con el poder
+
+McAdams, 1982: hay diferencias de sexo, clase social o maduración:
+- Hombres más competitivos y asertivos que las mujeres
+- Clase baja más agresiva que clase media-alta
+- Dependiendo del estadio evolutivo, comportamientos más o menos espontáneos
+
+**Diferencia entre motivo de poder y motivo de logro:** motivo de poder --> comportamiento más conservador, intentan mantener la situación. motivo de logro --> más progresistas, aceptan los cambios si favorecen al rendimiento general
+
+
 ## 6.2. La conducta desencadenada por el motivo de poder
+Las personas con alto motivo de poder:
+1. **Intentan convencer y persuadir a los demás**
+1. **Eligen profesiones en las que pueden tener influencia sobre los demás**
+1. **Hombres: asertivos. Mujeres: no**
+1. **Realizan conductas cuyo objetivo es lograr prestigio**
+1. **Utilizan en su propio beneficio a los miembros del grupo**
+1. **Suelen hacer alianzas de conveniencia, y las deshacen cuando no consiguen el beneficio esperado**
+1. **Pueden llegar a ser buenos líderes**, aunque su tendencia a hacer que los demás se adhieran a sus planes puede ser negativa para el resto del grupo
+1. **Se guían por estereotipos**
+
+Hay correlación con reacciones fisiológicas: **las personas con elevado motivo de poder tienen activación crónica del sistema nervioso simpático --> alta presión sanguínea y liberación de catecolaminas (adrenalina, noradrenalina)**. Por eso se enfadan más y discuten más, o tienen dificultades para dormir. **Si se inhibe o bloquea la activación simpática (e.g. mediante exigencias de su jefe) la activación simpática no recompensada puede producir una enfermedad física**
+
 ## 6.3. La adquisición y desarrollo del motivo de poder
 ## 6.4. Motivo de poder y liderazgo
 ## 6.5. Motivo de poder y conducta de agresión
+
 # 7. Motivo de autorrealización
+El más importante de los motivos para Maslow. **La realización de las potencialidades de la persona, para llegar a ser todo lo que uno puede conseguir, con el propósito de ser plenamente humano, contemplando el logro de una identidad e individualidad completa"**
+
+Varía mucho de individuo a individuo, pero en resumen, se trata de personas que son libres para ser ellas mismas. Siguen las normas de la sociedad y obedecen su sentido del deber, pero si interfieren con quienes son se rebelan contra ellas.
+
+Se encuentran las necesidades de satisfacer nuestras capacidades personales, desarrollar nuestro potencial, hacer aquello para lo cual tenemos aptitudes.
