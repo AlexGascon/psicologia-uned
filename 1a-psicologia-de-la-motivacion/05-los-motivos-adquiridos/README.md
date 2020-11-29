@@ -144,13 +144,63 @@ La teoría de Atkinson tuvo mucha repercusión, ha dominado la investigación so
 ## 4.3. La conducta desencadenada por el motivo de logro
 Se caracteriza por una preocupación por hacer las cosas mejor que antes, superando criterios o estándares de excelencia. **Ante cualquier situación de logro, el individuo evaluará su propia actuación, comparándose con el nivel de ejecución de otras personas o de el que se ha impuesto a sí mismo y se asignará una reacción de éxito o fracaso**
 
-Características de las personas con conductas según Chóliz (1995, 2004):
+Características de las personas con conductas desencadenadas por el motivo de logro, según Chóliz (1995, 2004):
 - **Buscan activamente el éxito profesional**, asumiendo ciertos riesgos pero sin exceder sus capacidades reales
 - **Emprendedoras**
+- **Siempre asumen las consecuencias de su conducta**
+- **Se interesan por recibir feedback**
+- **Innovadoras**
+- **Ejecutan con más eficacia las tareas desafiantes**
+- **Rinden más que el resto ante tareas que suponen motivación intrínseca** (hacen las cosas por el gusto de hacerlas lo mejor posible)
+- **Eligen tareas de dificultad moderada** (las fáciles son fáciles, las difíciles corren el riesgo de no ser terminadas. Las intermedias exigen pero son posibles)
+- **Capaces de asumir riesgos calculados** (no extremos)
+- **Conscientes de sus capacidades, midiendo y asumiendo las consecuencias de su actuación**
+
+En resumen: personas con amplio sentido de la superación, deseando desarrollarse en todos los ámbitos para crecer y alcanzar el mayor logro personal
+
 
 ## 4.4. La adquisición y desarrollo del motivo de logro
+Winterbottom (1953): el factor más diferenciador es a qué edad los padres hacen a sus hijos comportarse de manera independiente (hacer tareas de casa, etc). El hecho de que los niños tuvieran que realizar tareas cuando son incluso demasiado pequeños hacía que después les resultara más fácil generalizar a otras tareas que también suponían destreza e independencia (e.g. resultados escolares)
+
+Chóliz (1995): la clave es un ambiente familiar estricto + permisivo:
+- Estricto porque los padres ponen unas normas de conducta claras y bien definidas
+- Permisivo porque los padres dan autonomía a los hijos para que adquieran control sobre su conducta y responsabilidad sobre su comportamiento
+
+Más estudios, pero todos coinciden en que **el motivo de logro se adquiere en la infancia potenciando la independencia**
+
 ## 4.5. Estilos de motivo de logro
+
+- **Estilo directo de logro**: los individuos consiguen el éxito mediante sus propios medios y esfuerzos. Personas que han luchado mucho solas, se han hecho a sí mismas. Aunque el fin es muy importante, no justifica los medios, se ciñen a las reglas que se marcan. Tres variaciones
+  - Directo intrínseco: comparan sus ejecuciones con su propio modelo interior
+  - Directo competitivo: comparan con logros de los demás
+  - Directo orientado al poder: tratan de controlar situaciones y personas
+- **Estilo instrumental de logro**: los individuos consiguen el éxito manipulando a otras personas y aprovechando sus éxitos. Son conscientes de que se aprovechan y manipulan, todo tiene un precio para ellos y el fin justifica los medios, lo importante es alcanzar el objetivo como sea. Tres variaciones:
+  - Instrumental personal: utilizan sus propias circunstancias personales para conseguir sus objetivos en los demás
+  - Instrumental social: se aprovechan de las relaciones interpersonales con los demás
+  - Instrumental basado en la confianza: manipulan a los demás, pero confían en que les permitirán aprovecharse.
+- **Estilo relacional de logro**: los individuos consiguen el logro a través de su relación con otros que ya lo han conseguido. Tres aspectos:
+  - Relacional basado en la colaboración: participan en las tareas como uno más. Trabajadores de equipo, asumen y comparten responsabilidades y recompensa (entiende el logro como una perspectiva de grupo, como en deportes de equipo)
+  - Relacional basado en la contribución: ponen sus éxitos a disposición de otros para que también los consigan (también entiende el logro desde una perspectiva de equipo)
+  - Relacional vicario: sienten el éxito como propio sin participar en él para nada. _Ejemplo: los seguidores de un equipo de fútbol_.
+
+
 ## 4.6. Motivo de logro y personalidad
+No hay muchos estudios que relacionen motivo de logro y personalidad.
+
+Hay uno reciente, Morán y Menezes (2016)
+
+Estudiaron cinco factores de personalidad y su relación con el motivo de logro:
+
+- **Neuroticismo**: dimensión de la emocionalidad. Personas neuróticas = aquellas que tienden a experimentar más emociones negativas (miedo, ira, culpabilidad), menos capaces de controlar impulsos y enfrentarse al estrés.
+  - **Relación con el motivo de logro:** relación inversa (alto motivo de logro <--> personas emocionalmente estables, tranquilas, baja tendencia a la depresión o culpabilidad... Se perciben capaces de manejarse en situaciones difíciles)
+- **Extraversión**: medida de la sociabilidad. Personas a las que les gusta estar vinculadas con gente, activas y habladoras
+  - **Relación con el motivo de logro:** relación directa (alto motivo de logro <--> alta extraversión/sociabilidad)
+- **Apertura a la experiencia**: interés por conocer el mundo exterior e interior y tener una vida enriquecida. Abiertos a nuevas ideas y valores.
+  - **Relación con el motivo de logro:** relación directa (alto motivo de logro <--> alta apertura a la experiencia)
+- **Amabilidad**: dimension de tendencias interpersonales. Personas altruistas, que simpatizan con los demás y están dispuestos a ayudarles.
+  - **Relación con el motivo de logro:** relación directa (alto motivo de logro <--> alta amabilidad)
+- **Responsabilidad**: proceso activo de planificación, organización y ejecución.
+  - **Relación con el motivo de logro:** relación directa (alto motivo de logro <--> alta responsabilidad)
 
 # 5. Motivo de afiliación e intimidad
 ## 5.1. Concepto y definición del motivo de afiliación e intimidad
