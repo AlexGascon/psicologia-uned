@@ -284,8 +284,55 @@ Las personas con alto motivo de poder:
 Hay correlación con reacciones fisiológicas: **las personas con elevado motivo de poder tienen activación crónica del sistema nervioso simpático --> alta presión sanguínea y liberación de catecolaminas (adrenalina, noradrenalina)**. Por eso se enfadan más y discuten más, o tienen dificultades para dormir. **Si se inhibe o bloquea la activación simpática (e.g. mediante exigencias de su jefe) la activación simpática no recompensada puede producir una enfermedad física**
 
 ## 6.3. La adquisición y desarrollo del motivo de poder
+Ocurre en la edad temprana. Factores más determinantes: pautas educativas familiares, pautas escolares, y entorno sociocultural
+
+McClelland, Pillon (1983): amplia relación entre la educación de las madres cuando somos pequeños. Cuanta más tolerancia al sexo y a la agresión cuando somos pequeños, mayor motivo de poder. Esto ocurre porque esta tolerancia produce una activación simpática en las áreas corticales donde se activan el sexo y la agresión, y esto libera catecolaminas (que son una de las hormonas implicadas en el motivo de poder)
+
+**Amplia correlación
+El desarrollo del motivo de poder tiene cuatro etapas:
+- **Adquisición**: obtención de metas materiales
+- **Autonomía**: manifestación explícita de su independencia
+- **Asertividad**: intentos de la persona de controlar su emotividad e integrarse en la sociedad (e.g. inhibir la ira porque no está bien vista). Es la etapa más estudiada porque aquí se produce la configuración del liderazgo.
+- **Pertenencia**: el sujeto acerca su productividad a la sociedad, trata de aportar su trabajo al grupo
+
+
+
 ## 6.4. Motivo de poder y liderazgo
+Motivo de poder y rol de liderazgo están muy relacionados, pero **alguien con motivo de pdoer no tiene porqué ser un líder**
+
+Chóliz (2004): las funciones del líder son descubrir e iniciar los objetivos del grupo, dirigirlo hacia metas determinadas, establecer normas, transmitir seguridad y **buscar el beneficio del grupo**. Define dos tipos de líder:
+- **Líder socioemocional**: encargado de crear un clima de armonía
+- **Líder de tarea**: encargado de que las actividades se realicen, y de que se realicen adecuadamente
+
+Reeve (2010): **el motivo de liderazgo es una variante especial del motivo de poder**. Una persona con motivo de liderazgo cumple tres características:
+- **Alta necesidad de poder**
+- **Baja necesidad de afiliación/intimidad**
+- **Inhibición de conductas mal vistas por la sociedad**
+En definitiva, personas que quieren ejercer una influencia, no se preocupan por agradar a los demás y muestran autocontrol y disciplina.
+
 ## 6.5. Motivo de poder y conducta de agresión
+Hay mucha relación entre motivo de poder y conducta de agresión.
+
+Zimbardo (1972): si a un sujeto se le da la oportunidad de controlar la conducta de otros, tiende a mostrar su autoridad mediante agresión
+
+Dos tipos de conductas agresivas:
+- **Agresión colérica/hostil**: consecuencia de una causa emocional
+- **Agresión instrumental**: la agresión como instrumento para conseguir un objetivo.
+
+McClelland (1975) y Boyatzis (1973): las personas con alto motivo de poder presentan mayor tendencia a impulsos violentos (tanto hombres como mujeres).
+
+Las personas con alto motivo de poder suelen inhibir estas conductas, pero cuando se prescinde de esas inhibiciones hay más conductas agresivas que en individuos normales. Numerosos estudios demuestran que varones con alto motivo de poder presentan agresividad después de consumir alcohol (que se supone inhibidor)
+
+Como la sociedad inhibe las conductas agresivas, suelen quedarse solo en impulsos. A veces también se liberan de otras formas que dan ilusión de mayor poder: acciones de riesgo, consumir alcohol y drogas, hacer gestos o aspavientos obscenos
+
+Mason y Blankenship (1987): varones altamente motivados por el poder suelen utilizar abusos físicos para resolver sus problemas de relación.
+
+
+**Correlaciones del motivo de pdoer**:
+- **Con el motivo de afiliación**: correlación débil y negativa (si hay un, no está el otro
+- **Con el motivo de logro**: no hay correlación.
+
+El motivo de poder es un motivo mucho más complejo que los demás, porque abarca el sentimiento del propio poder sobre los demás y el que los demás ejercen sobre nosotros
 
 # 7. Motivo de autorrealización
 El más importante de los motivos para Maslow. **La realización de las potencialidades de la persona, para llegar a ser todo lo que uno puede conseguir, con el propósito de ser plenamente humano, contemplando el logro de una identidad e individualidad completa"**
