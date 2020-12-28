@@ -1,5 +1,14 @@
 # Excel de la actividad de acogida
 Acogida - Plantilla Información.xlsx
+Planificación cuatrimestral.xlsm
+Plantilla - Planificación cuatrimestral.xlsm
 
-# Apuntes de Psicología Social, de Samuel Gil - No los incluyo en el repo porque no son míos
+# Vídeos de las clases
+*.mp4
+
+# Apuntes de Psicología Social de Samuel Gil y material de las tutorías - No los incluyo en el repo porque no son míos
 1-psicologia-social/Apuntes social. Samuel G/*
+1-psicologia-social/Material tutorías/*
+
+
+

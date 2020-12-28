@@ -115,14 +115,82 @@ El patrón de acción modal es similar al reflejo, pero más complejo. Diferenci
 - El patrón de acción modal puede producirse de forma espontánea (acciones en vacío)
 
 ### 2.2.2. El troquelado
+El troquelado o impronta es un fenómeno que consiste en que un individuo seguirá al primer individuo que vea al nacer. Lo descubrió por primera vez Konrad Lorenz (1935) al observar que los patitos que salieron de unos huevos que estaba incubando le seguían a todas partes y se agrupaban en torno a él en busca de protección
 
+También se ha comprobado impronta con objetos inanimados (cajas de colores, muñecos de felpa...)
+
+Existe un periodo de tiempo, conocido como **periodo crítico** para que la impronta ocurra. Una vez pasa el periodo crítico, es muy difícil que la impronta se produzca.
+
+**Importancia adaptativa del troquelado: permite a una cría seguir a su madre y aprender conductas de ella. Esto garantiza el aprendizaje de conductas propias de la especie y facilita la protección materna** _(esto lo han preguntado muchas veces)_
+
+Dos explicaciones a la conducta, unas basadas en aspectos aprendidos y otros en innatos
+- Aprendidos: Aprendemos la conducta porque la figura de la madre (o de quien sea que nos improntemos) reduce el miedo, así que lo asociamos a algo bueno
+- Innatos: Programación filogenética del impulso
+
+Se han estudiado otros dos tipos de impronta:
+- **Preferencia sexual**: hacia la especie de la que nos "improntamos"
+- **Preferencia alimenticia**: hacia los alimentos a los que nos expongamos al principio de nuestra vida
 
 # 3. La conducta motivada humana
 ## 3.1. Del instinto al motivo
+Se empieza a investigar la conducta animal para hallar las bases del comportamiento humano. Se considera que el comportamiento humano no es totalmente voluntario, sino que es también instintivo porque venimos de los animales. **El instinto como fuerza motivacional pasa a formar parte de la conducta humana**
+
+_(Esto lo preguntan bastante)_ William McDougall fue el defensor más acérrimo de los instintos: para él, desencadenaban la conducta y nos orientaban hacia una meta en particular. Los consideraba esfuerzos intencionales / pulsiones, más que una fuerza mecánica. El instinto regulaba la parte objetiva (la conducta, que podemos observar) pero también la parte subjetiva (los deseos, que no podemos observar). Suponía que todos los deseos brotaban de los instintos, así que la parte emocional del instinto era importante también
+
+Hoy en día sabemos que muchas partes de sus suposiciones eran incorrectas, pero sentó las bases para que siguiéramos investigando sobre el instinto y llegáramos a lo que sí es cierto.
+
+
 ## 3.2. La pulsión en el psicoanálisis
+Para Freud, existen tres aspectos estructurales:
+- **Yo (ego)**: el consciente
+- **Ello (id)**: el inconsciente. Incluye los impulsos que pueden ser biológicos (hambre), sociales (enfado) o sexuales.
+- **Superyo (superego)**: la interiorización inconsciente de las normas sociales, familiares, etc. Es decir, cosas aprendidas por medio de nuestros grupos o sociedad
+
+La fuerza que motiva la conducta surge del conflicto entre los impulsos del ello y la conciencia del yo
+
+**Pulsión**: ocupa un papel central, entiende que el propósito del comportamiento era satisfacer necesidades corporales. La pulsión era lo ue motivaba la conducta, lo que incitaba el comportamiento**
+
+Freud distinguía cuatro momentos en la pulsión:
+- **Fuente**: el déficit corporal que desencadena la conducta
+- **Esfuerzo**: la pulsión en sí. El "algo" que nos empuja a solucionar el déficit de la fuente. Su intensidad depende de nuestra necesidad
+- **Meta**: el propósito que nos permite acabar con la tensión
+- **Objetivo**: cualquier persona o cosa que sirve para satisfacer la pulsión.
+
+Freud las dividió en dos grupos:
+- **Pulsiones de vida**: las que aseguran la supervivencia y la vida (hambre, sed, sexo...)
+- **Pulsiones de muerte**: las que incluyen impulsos destructivos o negativos (agresividad)
+
+**_(Para entender un poco mejor todo, podríamos decir que podemos sustituir "pulsión" por "esfuerzo". Es más genérico pero es una forma más sencilla de entender el texto)_**
+
+En resumen, **el psicoanálisis radica en poner en primer plano las motivaciones inconscientes como determinantes psíquicos fundamentales**
+
+
 ## 3.3. La reacción del movimiento conductista
+El conductismo surgió un poco como reacción al psicoanálisis. Quería centrarse únicamente en aquello que podemos observar, que es objetivo (el comportamiento), y no en la conciencia o el pensamiento. Se centró mucho en términos de Estímulo-Respuesta
+
+Su fundador, **John Broadus Watson**, defendió que cualquier conducta compleja se podía descomponer en reflejos, aprendidos en base a una historia de premios y castigos. 
+
+
 # 4. La motivación en la base de la conducta aprendida
+Clara relación entre motivación y aprendizaje: aprendemos más cuando estamos motivados.
+
 ## 4.1. Factores motivacionales en el condicionamiento clásico
+El caso más claro es el del experimento del perro de Pavlov: un perro hambriento no empezaba a salivar cuando comía, sino cuando preveía que iba a comer (cuando veía llegar la comida, o cuando oía la campana que Pavlov tocaba para avisarle de que la comida estaba lista)
+
+_(Es importante para esto entender el experimento del perro de Pavlov, se puede leer mucho sobre él en Internet: básicamente, confirmó que el perro asoció "sonido de campana" con "comida", así que cuando se daba "sonido de campana" el perro empezaba las reacciones de comer (como salivar) aunque no hubiese comida)_
+
+Hasta este momento se creía que los reflejos eran automáticos e innatos, pero Pavlov demostró que se pueden aprender. Al mismo tiempo, también demostró que podíamos alterar la frecuencia y dirección de la conducta, a base de provocar los estímulos que la desencadenan.
+
+Dos tipos de condicionamiento:
+- **Apetitivo**: el que demostró Pavlov, porque el estímulo anticipa una respuesta agradable
+- **De defensa**: demostrado por Bekhterev, cuando rechazamos el estímulo. _Ejemplo: si siempre chasqueamos los dedos antes de dar un golpe a alguien, en un momento determinado el chasqueo de dedos provocará una reacción de miedo en esa persona_
+
+### 4.1.1. Componentes y proceso
+
+### 4.1.2. Propiedades físicas del estímulo condicionado
+
+### 4.1.3. Propiedades motivacionales del estímulo condicionado
+
 ## 4.2. La motivación en el modelo E-R
 ## 4.3. La motivación como función activadora
 ## 4.4. La motivación como función informativa
