@@ -183,14 +183,106 @@ Variables que afectan a la extinción:
 
 
 # 5. La actividad como motivadora de la acción
-#### Teoría de la probabilidad condicionada o Principio de Premack 
+### Teoría de la probabilidad condicionada o Principio de Premack
 Expone que **la actividad que funciona como reforzador tiene que tener una probabilidad de ocurrencia mayor que la conducta que queremos reforzar**. Es decir, dadas dos conductas cualquiera, **podemos conseguir que la conducta más probable para el sujeto sea reforzadora de la menos probable, pero no al revés**.
 
 Una de las implicaciones de esta teoría es que **facilita encontrar un reforzador para cualquier sujeto: si le dejamos actuar con libertad y observamos qué conductas realiza más habitualmente, podemos utilizar estas conductas para reforzar conductas más infrecuentes**
 
 _Ejemplo: juntamos a un grupo de gente y les damos dos opciones, pintar y leer: para los que escojan pintar, podremos utilizar la conducta de pintar como reforzador de leer, pero no al revés_
 
-#### Hipótesis de la privación de la respuesta y de la distribución conductual
+### Hipótesis de la privación de la respuesta y de la distribución conductual
 **Hipótesis de la privación de la respuesta**: Una conducta puede actuar como reforzadora aunque su probabilidad sea baja si esta conducta está habitualmente restringida (e.g. comer helados). En este caso el hecho de que la conducta tenga baja probabilidad no depende de que el sujeto no quiera hacerla, así que no podemos descartar que sí pueda servir como reforzador.
 
 **Hipótesis de la distibución conductual**: Es una generalización de la anterior, propuesta por los mismos autores. Indica que el sujeto intenta distribuir su tiempo de la forma más que más agradable le resulta. Si bloqueamos una de esas conductas, el sujeto tendrá que reemplazarla por otra. En resumen consiste en bloquear la conducta preferida del sujeto e intentar que, al redistribuir el horario, le asigne más tiempo a la conducta que queremos reforzar.
+
+# 6. La motivación y el aprendizaje observacional
+
+Los seres humanos no solo aprenden al ejecutar comportamientos, **sino también al ver a otros realizarlos**. Esta actividad no es exclusiva del hombre, pero sí se ha observado relación directa entre nivel cognitivo y grado de imitación: a mayor complejidad del sistema nervioso, mayor cantidad de conducttas imitativas, y mayor será su calidad y sus mecanismos de control.
+
+Utilizaremos para referirnos a esto el término de **Aprendizaje Observacional (AO)**
+
+El entorno familiar es muy determinante: tendemos a repetir conductas observadas en la infancia aunque en su momento no se estuviese de acuerdo con ellas (violencia, alcoholismo).
+
+A veces se mezcla ejecución de la conducta con observación de la misma conducta en un modelo (al jugar a ajedrez, competimos y aprendemos estrategias de nuestro rival al mismo tiempo).
+
+## 6.1. Tentativas explicativas de la imitación
+
+Algunas de las teorías que se plantearon inicialmente para explicar el aprendizaje observacional. Ya sabemos que no son ciertas (no explican todos los detalles), pero está bien conocer los antecedentes.
+
+- **Teorías instintivas**: la imitación es algo innato.
+  - Problema: se trataría de una conducta de copia, así que se limitan mucho las posibilidades del aprendizaje observacional
+- **Condicionamiento clásico**: tiene que haber contiguidad entre conducta observada y la posibilidad de emitir la respuesta a imitar.
+  - Problema: Explica cómo otros nos pueden provocar una conducta, pero no cómo aprendemos conductas nuevas
+- **Condicionamiento operante**: tiene que ejecutarse la conducta imitada y esta tiene que ser reforzada
+  - Problema: 1) asume que la respuesta debe existir previamente en el repertorio del que imita (falso porque se sabe que se pueden aprender conductas nuevas) 2) debe existir reforzador 3) asume que se debe ejecutar la conducta al observarla (falso porque se sabe que existe el aprendizaje demorado)
+
+## 6.2. Justificaciones cognitivas del aprendizaje observacional
+
+**Teoría del aprendizaje social: el ser humano se encuentra inmerso en un medio social, por lo que gran parte de lo que aprende es al observar la conducta de los demás y ver las consecuencias**. Fue desarrollada por Albert Bandura en 1977
+
+**Teoría social cognitiva**: expansión de la teoría del aprendizaje social, presentada en 1986 también por Bandura. Supone tres puntos clave:
+
+- **Interacciones recíprocas**: hay tres factores que interactúan entre sí y que explican la conducta conjuntamente:
+  - Conducta (comportamiento que ejecutas
+  - Factores cognitivos (pensamientos que afectan tu conducta en el futuro, como preguntas que te haces a ti mismo o partes concreta que te despiertan más curiosidad)
+  - Ambiente en el que se produce el aprendizaje (dónde aprendes, de quién...)
+- **Aprendizaje directo y vicario**: existen dos tipos de aprendizaje: directo (se aprenden de las consecuencias de la conducta propia) y vicario (se aprende de las consecuencias de las conductas de los demás). El vicario es más rápido porque no requiere que ejecutemos la conducta.
+- **Aprendizaje y desempeño**: no siempre que se aprende una conducta se ejecuta
+
+
+La teoría social cognitiva considera el AO como **una representación mental y elaborada de un sujeto que ha observado a un modelo, que ejecuta alguna conducta o sufre las consecuencias de alguna acción, sin que sea preciso que el observador realice esa conducta**.
+
+_Esto de abajo cae mucho, repasarlo bien_
+
+Considera que **el reforzador sí que influye en el AO, pero de manera cognitiva: realiza una influencia antecedente, más que consecuente**. Es decir, no recibimos un reforzador, sino que **lo anticipamos** en función de cómo se desarrolla la conducta que estamos observando.
+
+Hay cuatro procesos interrelacionados que influyen en el grado y contenido del aprendizaje. Los dos primeros están relacionados con la adquisicón, y los dos últimos con su ejecución.
+
+- Procesos atencionales
+- Procesos de retención
+- Procesos de reproducción motora
+- Procesos de motivación
+
+### 6.2.1. Procesos atencionales
+**Llaman nuestra atención**
+
+Estos procesos son los que hacen que nos fijemos en la conducta que vamos a aprender. Hay tres variables principales que los afectan:
+
+- **Propiedades físicas del estímulo**: cuánto nos llama la atención el estímulo. Lo afectan cosas como su color, tamaño, forma... así como características más cognitivas, como su viveza, intensidad, novedad... (por eso todos los juguetes para niños son de colores vivos, formas graciosas...). Hay dos detalles importantes: no deben exceder la capacidad de atención del sujeto y no deben ser excesivamente complejos (o no podremos prestar atención correctamente a la conducta observada, que es lo que realmente tenemos que aprender)
+- **Características del modelo**: cuanto más nos atraiga el modelo utilizado (por estatus, prestigio social...), más se nos quedará la conducta. Por eso muchas marcas de utilizan a famosos en sus anuncios.
+- **Características del observador**: cuanto más difícil se perciba la tarea, menos atención prestaremos. En esto no sólo influye la tarea en sí, sino también nuestra autoestima, estatus sociocultural...
+
+
+### 6.2.2. Procesos de retención
+**Codifican la información observada para almacenarla en la memoria**
+
+Dos sistemas de representación:
+
+- **Imágenes (sistema de mediación imaginativa)**: transforma los estímulos de modelado en imágenes. Es importante en tareas que no se describen fácilmente con palabras (como imitar una escena de una película)
+- **Palabras (código de mediación verbal)**: convierte la conducta en palabras/frases. Principalmente usado en tareas cognitivas (como cuando seguimos unas instrucciones)
+
+
+### 6.2.3. Procesos de reproducción motora
+**Reproducen lo que hemos aprendido**
+
+**Influye lo que hemos observado + las limitaciones que existan o nos impongamos**. Por ejemplo, aunque veamos muchos partidos de Nadal no podremos jugar como él al tenis si no tenemos su forma física; y aunque estudiemos mucho para un examen nos resultará más difícil si lo vemos con miedo y creemos que no podemos con la asignatura (limitaciones cognitivas).
+
+Sobretodo para actividades complejas (ejemplo: jugar a fútbol), hay tres factores:
+
+- **Aprendizaje observacional**: ver partidos
+- **Práctica inducida**: entrenar
+- **Retroaimentación correctiva**: que el entrenador nos observe y corrija nuestros errores
+
+### 6.2.4. Procesos de motivación
+**Transforman el aprendizaje en ejecución**
+
+El incentivo motivacional juega un papel muy importante tanto en el adquisición como en la actualización de la conducta:
+
+- **Adquisición**: anticipamos las consecuencias de una conducta y decidimos si nos motiva o no
+- **Actualización**: si no hay incentivo, no hay por qué mejorar la conducta
+
+El incentivo actúa por medio de varias funciones:
+
+- **Función informativa**: vemos que ciertas respuestas nos permiten conseguir cierto incentivo, y decidimos aprenderlas
+- **Función motivacional**: motivación como tal. El incentivo son las consecuencias que anticipamos, así que nos anima a ejecutar la conducta para conseguir esas consecuencias.
+- **Función de acrecentamiento del estímulo**: como discriminador entre conductas. Si vemos que unas conductas consiguen el incentivo en mayor cantidad o de manera más fácil, daremos prioridad a aprender esas conductas.
