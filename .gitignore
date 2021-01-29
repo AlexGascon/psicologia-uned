@@ -6,7 +6,7 @@ Plantilla - Planificación cuatrimestral.xlsm
 # Vídeos de las clases
 *.mp4
 
-# Apuntes de Psicología Social de Samuel Gil y material de las tutorías - No los incluyo en el repo porque no son míos
+# Psicología Social - Material adicional
 1-psicologia-social/Apuntes social. Samuel G/*
 1-psicologia-social/Material tutorías/*
 
