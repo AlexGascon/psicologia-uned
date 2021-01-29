@@ -259,7 +259,7 @@ De Santamaría, 1987: matiza que el motivo de poder es la necesidad **de control
 McClelland, 1985:
 - El motivo de poder tiene los requisitos para ser considerado importante
   - **Función energizante**: está relacionado con la activación del Sistema Nervioso simpático
-  - **Función orientadora**: los individuos con mayor motivo de poder presentan mayor actividad cerebral ante estímulos relacionados con el pdoer vs estímulos neutros
+  - **Función orientadora**: los individuos con mayor motivo de poder presentan mayor actividad cerebral ante estímulos relacionados con el poder vs estímulos neutros
   - **Función selectiva de la conducta**: los individuos con mayor motivo de poder recuerdan mejor escenas y experiencias relacionadas con el poder
 
 McAdams, 1982: hay diferencias de sexo, clase social o maduración:
@@ -298,7 +298,7 @@ El desarrollo del motivo de poder tiene cuatro etapas:
 
 
 ## 6.4. Motivo de poder y liderazgo
-Motivo de poder y rol de liderazgo están muy relacionados, pero **alguien con motivo de pdoer no tiene porqué ser un líder**
+Motivo de poder y rol de liderazgo están muy relacionados, pero **alguien con motivo de poder no tiene porqué ser un líder**
 
 Chóliz (2004): las funciones del líder son descubrir e iniciar los objetivos del grupo, dirigirlo hacia metas determinadas, establecer normas, transmitir seguridad y **buscar el beneficio del grupo**. Define dos tipos de líder:
 - **Líder socioemocional**: encargado de crear un clima de armonía
@@ -328,7 +328,7 @@ Como la sociedad inhibe las conductas agresivas, suelen quedarse solo en impulso
 Mason y Blankenship (1987): varones altamente motivados por el poder suelen utilizar abusos físicos para resolver sus problemas de relación.
 
 
-**Correlaciones del motivo de pdoer**:
+**Correlaciones del motivo de poder**:
 - **Con el motivo de afiliación**: correlación débil y negativa (si hay un, no está el otro
 - **Con el motivo de logro**: no hay correlación.
 
