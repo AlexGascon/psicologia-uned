@@ -203,10 +203,66 @@ Una disonancia cognitiva puede producirse fundamentalmente por 4 motivos:
 
 
 # 3. Motivación y necesidades psicológicas básicas
-## 3.1. Motivación intrínseca
+Existen dos posibles formas de motivación
+
+- **Motivación extrínseca:** cuando hay algún evento externo que nos motiva
+- **Motivación intrínseca:** cuando el propio hecho de realizar la conducta nos motiva.
+
+## 3.1. Motivación intrínseca (MI)
+Es **el deseo de involucrarse en una actividad simplemente por el placer de participar en ella**. Una conducta se halla intrínsecamente motivada cuando se produce en ausencia de un estímulo externo.
+
+Se basa en necesidades psicológicas (ejemplo: curiosidad).
+
+La mayoría de esstudios sobre la MI inciden en aquellos aspectos subjetivos que la determinan. Ejemplos: autocomplacencia, causación personal, autodeterminación y autoeficacia.
+
+Robert White, 1959:
+
+- Las conductas intrínsecamente motivadas son aquellas en las que participamos para considerarnos competentes y con determinación para actuar sobre el ambiente.
+- La percepción de la propia competencia influye en las metas a las que la persona se compromete, en su planificación y en el esfuerzo y persistencia que se realiza sobre ellas.
+- Factores que afectan a la conducta intrínsecamente motivada: proactividad, persistencia temporal y estrecha vinculación con la necesidad vital de sentirse competente
+
+**Causación personal**: el hombre se esfuerza por ser el causante de su conducta. Si no, solo se explica nuestra conducta con factores externos (autodeterminación, que seamos libres para elegir nuesros comportamientos). **Hombre como "origen" vs hombre como "peón"**: elegimos vs ejecutamos.
+
+**La causación personal no es un motivo en sí, sino un principio guía sobre el que se construyen el resto de los motivos**.
+
+Vallerand et al (1989, 1992, 1993) distingue **3 tipos de motivación intrínseca**:
+
+- **MI hacia el conocimiento**: el placer que se obtiene al intentar saber algo nuevo
+- **MI hacia la ejecución o logro**: placer cuando se intenta hacer algo, o superarse a uno mismo.
+- **MI hacia la estimulación**: centrada en alcanzar sensaciones placenteras 
+
+
 ## 3.2. Teorías explicativas sobre la motivación intrínseca
 ### 3.2.1. Teoría de la sobrejustificación
+
+De Mark R. Lepper, 1973
+
+**La percepción propia de las causas que provocan nuestra conducta determina e influye en la motivación**. 
+
+Una forma equivalente de decirlo, es que **si pasamos a tener motivación externa, la MI disminuirá, porque se verá excesivamente justificada** _(ejemplo: empezar teniendo mucha MI por trabajar en AWS porque es una empresa puntera y con muchos retos interesantes, pero que esta se vaya perdiendo porque el sueldo es alto y eso "justifica" la motivación)_
+
+_Otro ejemplo: alguien que empieza programando en su tiempo libre por placer, pero que empieza a darse cuenta de mucha gente lo hace por tener una marca personal e intenta ser mejor que los demás. Esto hará que se pierda el placer por programar en sí, puesto que la motivación pasará a ser "competir"_
+
+Experimento de Lepper et al, 1973: si el premio es inesperado, tampoco afecta a la motivación intrínseca. Incluso aunque en el futuro se repita la situación.
+
+**Coste oculto de la recompensa:** el efecto que produce un premio externo por una conducta que se encuentra motivada intrínsecamente. La recompensa puede afectar negativamente a la motivación intrínseca por la actividad. También conocida como _paradoja del incentivo_
+
+Ejemplo: los futbolistas de élite. Empiezan porque les gusta el deporte, pero pueden terminar perdiendo la pasión porque al final su motivación es cumplir con su trabajo (externa)
+
 ### 3.2.2. Teoría de la autoeficacia
+
+Albert Bandura, 1927. Es una teoría descriptiva, pero no define los mecanismos subyacentes.
+
+**La percepción que tengamos sobre nuestro dominio de una tarea determinará:**
+
+- Nuestras **expectativas de éxito**
+- Nuestra **persistencia en la ejecución**
+- La **cantidad de esfuerzo que invertimos**
+
+Personas con alto nivel de autoeficacia se encuentran más motivadas intrínsecamente, se plantean metas de aprendizaje más altas, persisten más en ellas y experimentan menos reacciones emocionales adversas
+
+Por el contrario, personas con dudas sobre su capacidad evitarán participar en una tara, le dedicarán menos esfuerzo y abandonarán más fácilmente al encontrar dificultades _(ejemplo: gente que se metía a Teleco por vocación vs gente que se metía porque no le había dado la nota para otra cosa)_
+
 # 4. Grados de motivación
 ## 4.1. Teoría de la autodeterminación
 ### 4.1.1. Teoría de la evaluación cognitiva
@@ -214,9 +270,61 @@ Una disonancia cognitiva puede producirse fundamentalmente por 4 motivos:
 ## 4.2. Efectos de la tarea sobre la motivación intrínseca
 ### 4.2.1. Grado de dificultad de la tarea
 ## 4.3. Características de la recompensa que afectan a la motivación intrínseca
-# 5. Motivación y acción
-# 6. Motivación y cambio
-## 6.1. La entrevista motivacional
-## 6.2. Fases de la entrevista motivacional
-## 6.3. La entrevista motivacional en la actualidad
 
+
+# 5. Motivación y acción
+Parece que hay estudios contrarios sobre la combinación de motivación intrínseca + premios. 
+
+Conclusiones sobre la relación Motivación intrínseca - Motivación extrínseca:
+
+|                                     | **Intrínseca**                            | **Extrínseca**                                |
+|-------------------------------------|-------------------------------------------|-----------------------------------------------|
+| **Dificultad**                      | Moderada                                  | Fácil (más probabilidad de premio)            |
+| **Placer**                          | En realizar la tarea                      | En los beneficios de realizar la tarea        |
+| **Sensación al realizar la tarea**  | Placer, se disfruta el proceso            | Tensión, presión social, miedo a fallar       |
+| **Tipo de premio buscado**          | Afectivo (placer), autodeterminación      | Social (reconocimiento) o material            |
+| **Efecto**                          | Mejora procesos cognitivos, alivia estrés | Ayuda a completar tareas que no nos interesan |
+| **Al obtener el premio**            | La conducta continua                      | La conducta cesa                              |
+| **Sensación de control**            | Si es alta, aumenta                       | Si es baja, disminuye MI                      |
+| **Influencia de factores externos** | Informativos: la aumentan                 | Controladores: disminuyen la MI               |
+
+# 6. Motivación y cambio
+Aunque normalmente la motivación que se ve afectada por fuentes externas es la motivación extrínseca, **existen ciertas actividades que permiten afectar la motivación intrínseca. Consisten en ayudar al paciente a descubrir cuáles son sus razones motivadoras**
+
+## 6.1. La entrevista motivacional
+Es un proceso que permite **hacer al paciente más consciente de cuáles son las motivaciones que puede tener para cambiar y estar más motivado intrínsecamente**. Hay varios principios muy importantes:
+
+- Es el paciente el que debe manifestar las razones para cambiar. El terapeuta ayuda, pero no puede forzar. Tampoco es bueno "llevarlo de la mano", puesto que el paciente puede recaer al dejar de ir a terapia.
+- Busca aumentar la motivación intrínseca del paciente a través de su autodeterminación
+- Emplea estrategias reflexivas (no correctivas)
+- Establece una atmósfera positiva para el cambio
+- Usa terapia centrada en el paciente (empatía, aceptación condicional, autenticidad)
+- Utiliza el modelo de cambio circular transteórico (ver sección siguiente)
+
+![](modelo-circular-transteorico.png)
+
+## 6.2. Fases de la entrevista motivacional
+
+Prochaska y Diclemente (1982) propusieron el **modelo de cambio circular transteórico: cuando las personas están cambiando, pasan por distintas etapas donde se comportan de forma distinta. Estas etapas se pueden repetir hasta que se modifica la conducta, y actúan de forma circular.**
+
+Etapas:
+
+- **Precontemplación**: el paciente no es consciente del problema. El psicólogo debe retroalimentar lo que dice el paciente, pero no dar consejos. _Ejemplo: alguien que piensa "para qué voy a hacer régimen si no voy a adelgazar"_
+- **Contemplación**: se empieza a tomar consciencia del problema, pero no se está motivado para cambiar. Hay contradicciones entre lo que se dice y se hace. _"Sé que no es bueno comer mucho, pero disfruto tanto..."_
+- **Preparación/determinación**: se es consciente de que los costes del comportamiento actual son mayores que los beneficios.
+- **Acción**: se pone en práctica la decisión tomada
+- **Mantenimiento**: se ha conseguido el cambio, pero se plantea la autodeterminación de mantenerlo _Tras conseguir adelgazar, continuar teniendo una dieta saludable para no engordar de nuevo_
+- **Recaída**: se vuelve a fases anteriores, y hay que renovar el proceso potenciando la autoeficacia.
+
+Para que la entrevista motivacional funcione, es fundamental la autoeficacia: el paciente tiene que terminar siendo consciente de que es capaz de conseguir su objetivo.
+
+La sección siguiente muestra cómo trabajar la motivación intrínseca de una persona para cambiar sus hábitos de conducta:
+
+1) **Hacemos que sienta la incoherencia de lo que dice vs lo que hace**: esto promueve el cambio, pero no insiste en él _"Fumo, pero puedo dejarlo cuando quiera"_
+2) **Hacer que se enfrente a esas incoherencias**: la persona tiene que estar tomando sus propias decisiones para de verdad cambiar.
+3) **Lograr que se sienta capaz de conseguirlo**: no solo es eficaz, sino que debe creérselo
+
+Resumen: **La entrevista motivacional utiliza la motivación intrínseca para facilitar la adquisición y mantenimiento de conductas. Para ello utiliza una entrevista semiestructurada, centrada en el paciente. Esta le ayuda a explorar y resolver sus propias incoherencias y resistencias al cambio**
+
+## 6.3. La entrevista motivacional en la actualidad
+Habitualmente se había centrado la entrevista motivacional en el campo de las adicciones, pero hoy en día se ha extendido mucho más (tabaquismo, enfermedades cardiovasculares, prevención de conductas...)
