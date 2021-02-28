@@ -265,12 +265,77 @@ Por el contrario, personas con dudas sobre su capacidad evitarán participar en 
 
 # 4. Grados de motivación
 ## 4.1. Teoría de la autodeterminación
+Es la teoría más completa y el mejor intento de explicar todo el espectro de la conducta motivada, abarcando motivación intrínseca + extrínseca.
+
+Autores: Deci y Ryan (1985).
+
+**Autodeterminación: tendencia innata que nos lleva a involucrarnos en los comportamientos que nos interesan, y no en los que nos son obligados**. El sujeto es quien decide su propia conducta y el grado que se implica en una tarea. **Las personas autodeterminadas inician su propia conducta, seleccionan los resultados deseados, y escogen las conductas a realizar para obtenerlos**
+
+La teoría de la autodeterminación es una macroteoría explicativa de los distintos aspectos de la motivación humana. Se halla compuesta por cuatro microteorías:
+
+- **Teoría de la evaluación cognitiva**: describe los factores que explican por qué varía la motivación intrínseca
+- **Teoría de la integración orgánica**: explica los distintos tipos de motivación, desde autodeterminada hasta no autodeterminada
+- **Teoría de la orientación de la causalidad**: estudia las distintas formas en las que personas individuales enfocan su determinación (si es autónoma, controlada o impersonal).
+- **Teoría de la necesidad**: estudia cómo las necesidades de competencia, autonomía y relación con los demás afectan al bienestar y la salud mental. 
+
 ### 4.1.1. Teoría de la evaluación cognitiva
+Su principal objetivo es **especificar los factores que explican la variabilidad de la motivación intrínseca**. 
+
+Hay dos elementos fundamentales:
+
+- **El nivel de competencia percibida**: si el sujeto siente que es capaz de completar las tareas y de hacerlas bien, su motivación intrínseca aumentará. Por el contrario, si se le transmite la sensación contraria, su MI disminuirá.
+- **La causa de la conducta**: o más bien, su origen. Causas internas aumentarán nuestra motivación intrínseca ("lo hago porque quiero") mientras que causas externas / recompensas disminuirán nuestra motivación intrínseca, solo habrá comportamiento si se recibe una recompensa.
+
+Todos los premios externos que se reciben tienen dos componentes que afectan a la percepción de competencia + autonomía de nuestra conducta
+
+- **Informativo**: da feedback sobre la competencia. Informa de cómo de eficaces somos. Facilita aumentar la motivación intrínseca. _Ejemplo: a alguien que acaba de sacarse el carnet de conducir y conduce bien, le decimos que conduce bien y con seguridad_
+- **Controlador**: relaciona la respuesta y las consecuencias, marca la conducta como una herramienta para conseguir la recompensa. Reduce la motivación intrínseca. _Ejemplo: a alguien que acaba de sacarse el carnet de conducir y conduce bien, le decimos que si sigue así no le pondrán multas_
+
 ### 4.1.2. Teoría de la integración orgánica
+**El hecho de que la motivación sea intrínseca/extrínseca no es blanco-negro, es una escala de grises**. Hay motivaciones extrínsecas que se acercan más a la autodeterminación (_estudiar porque queremos ser el mejor de la clase_) y otras cuya recompensa es totalmente externa (_estudiar porque nuestros padres nos obligan_). 
+
+Deci y Ryan lo definen como un continuo:
+
+- **En un extremo, la motivación intrínseca**: hacer las cosas porque de verdad nos da placer hacerlas
+- **En otro extremo, la desmotivación**: no querer si quiera hacer las cosas (porque no damos valor a las consecuencias, no nos sentimos competentes, no creemos que vayamos a obtener el resultado deseado...)
+- **Entre medias, motivación extrínseca**.
+
+La Teoría de la Autodeterminación de Deci y Ryan define varios tipos de motivación extrínseca en función de su posición en este continuo
+
+- **Regulación externa**: la única motivación es obtener la recompensa, que es externa. Es en la que menos esfuerzo hay _Ejemplo: el niño que come fruta porque si no sus padres no le dan postre_
+- **Regulación introyectada**: la recompensa es interna, pero se actúa movido por causas externas. Hay mayor esfuerzo, pero también puede haber ansiedad _Ejemplo: hago ejercicio porque quiero que los demás me vean mejor_
+- **Regulación integrada**: la más cercana a la motivación intrínseca, a la conducta autodeterminada. Aún hay algo de instrumentalidad, pero toda la motivación es propia. _Ejemplo: hago ejercicio porque es bueno para mi salud_
+
 ## 4.2. Efectos de la tarea sobre la motivación intrínseca
 ### 4.2.1. Grado de dificultad de la tarea
-## 4.3. Características de la recompensa que afectan a la motivación intrínseca
 
+La dificultad de la tarea en relación con nuestras competencias afecta a la motivación intrínseca: tareas muy fáciles nos aburrirán, pero tareas muy difíciles nos generarán ansiedad.
+
+Csikszentmihalyi (psicólogo húngaro): concepto de **Flow: cuando hay una armonía entre nuestras habilidades y la dificultad de la actividad que realizamos. Durante el Flow funcionamos a pleno rendimiento, estamos concentrados en la actividad, nos olvidamos del tiempo y del yo, y experimentamos una felicidad más profunda que el simple placer**
+
+El flow está muy relacionado con el concepto de **reto óptimo: cuando la tarea es de la dificultad perfecta para nosotros.** Para que se mantenga en el tiempo, la dificultad de la tarea tiene que ir aumentando a medida que lo hacen nuestras habilidades también.
+
+Se definen 6 condiciones para que ocurra el _flow_:
+
+- Unión efectiva entre acción y pensamiento
+- Sensación de control sobre la tarea
+- Concentración máxima en la tarea
+- Tarea y meta están equilibradas
+- Que el objetivo a cumplir sea claro
+- Que el feedback se produzca immediatamente y no sea ambigüo
+
+![](flow.png)
+
+## 4.3. Características de la recompensa que afectan a la motivación intrínseca
+**Coste oculto de la recompensa:** el efecto que produce un premio externo por una conducta que se encuentra motivada intrínsecamente. La recompensa puede afectar negativamente a la motivación intrínseca por la actividad. También conocida como _paradoja del incentivo_
+
+La recompensa **también puede poner en riesgo el aprendizaje**: el foco se pone en la recompensa final, en lugar de en el proceso de aprender en sí. Esto se nota mucho, por ejemplo, si solo unas tareas concretas aumentan la probabilidad de conseguir la recompensa: las demás se ignorarán (_ejemplo: los estudiantes que ignoran completamente las secciones de las que el profesor dice "Esto no entra en el examen"_)
+
+No obstante, no se da siempre. Se han encontrado **cuatro factores que previenen el "coste oculto" de la recompensa**:
+
+- **Expectativa**: si la recompensa no se esperaba, aunque se reciba, no afectará a la motivación intrínseca
+- **Caracter material**: si la recompensa es intangible, no afecta _tanto_ a la motivación intrínseca (ejemplo: elogios).
+- **Efecto de saliencia**: si el premio no está a la vista o no se menciona durante la realización de la tarea (si se le ignora un poco, podríamos decir), el efecto de reducción de la motivación intrínseca es menor.
 
 # 5. Motivación y acción
 Parece que hay estudios contrarios sobre la combinación de motivación intrínseca + premios. 
