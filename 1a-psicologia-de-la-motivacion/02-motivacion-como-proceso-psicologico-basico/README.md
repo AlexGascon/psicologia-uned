@@ -36,13 +36,6 @@ _Fernández-Abascal, 2001_: la finalidad de la psicología de la motivación deb
 
 La motivación **activa, dirige y mantiene la actividad**
 
----
-
-#### Etimología (off-topic probablemente pero está guay)
-<No rellenado aún porque no es tan importante, volver en el futuro pero ya sé que está aquí. Añadir los detalles como Anexo que así no corta mucho la parte principal>
-
----
-
 La motivación es un **constructo hipotético**: se supone que existe y sirve para explicar un fenómeno concreto, pero no puede observarse directamente. Lo que sí podemos observar son las conductas que surgen de la motivación.
 Ejemplos de otros constructos hipotéticos:
 - Movimiento: vemos los objetos en movimiento, pero no el movimiento en sí
