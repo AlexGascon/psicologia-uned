@@ -45,6 +45,3 @@ Otro estudio similar
 - **Moscovici y Zavalloni, 1969**
 - **Efecto de polarización: tras una discusión en grupo, las opiniones se polarizan más. Pasamos a tener opiniones más extremas que las de antes de la discusión**
 
-
-## Pensamiento de grupo
-
