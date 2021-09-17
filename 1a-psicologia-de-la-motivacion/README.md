@@ -1,4 +1,6 @@
 # Psicología de la Motivación
+![](./cover.jpg)
+
 Carpeta con los apuntes y recursos de la asignatura "Psicología de la Motivación"
 
 ## Temas
@@ -14,5 +16,6 @@ Carpeta con los apuntes y recursos de la asignatura "Psicología de la Motivaci�
 - [**Tema 10 - Ámbitos de aplicación de la Psicología de la Motivación**](./10-ambitos-de-aplicacion-de-la-psicologia-de-la-motivacion)
 - [**Práctica 1 - Relación entre niveles de motivación y cantidad de premio**](./p1-relacion-entre-niveles-de-motivacion-y-cantidad-de-premio)
 - [**Práctica 2 - Medición de la motivación deportiva con autoinformes**](./p2-medicion-de-motivacion-deportiva-con-autoinformes)
+
 ### Enlaces útiles
 - [Guía docente](http://portal.uned.es/portal/page?_pageid=93,70654783&_dad=portal&_schema=PORTAL&idAsignatura=62011089&idTitulacion=6201)

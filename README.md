@@ -1,10 +1,15 @@
 # Psicología - UNED
+
+![](cover.jpg)
+
 Apuntes de la carrera de Psicología de la UNED (Universidad Nacional de Educación a Distancia)
+
 ## Asignaturas incluidas
 ### Primer curso
 
 - [**Psicología social**](./1-psicologia-social)
 - [**Psicología de la motivación**](./1a-psicologia-de-la-motivacion)
+- [**Psicología de la emoción**](./1b-psicologia-de-la-emocion)
 
 ## Enlaces útiles
 
